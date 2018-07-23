@@ -1,0 +1,943 @@
+cpu_abi,host,hardware,device,bootloader,cpu_abi2,os_name,board,manufacturer,build_id_prop,run_mode,zisemulator
+armeabi-v7a,SWDG2909,qcom,sagit ,aruba3gzc,armeabi,sagit-user 4.4.2 NMF26X 381180523 release-keys,SM-G955F,Xiaomi ,null,Dalvik,1
+armeabi-v7a,SWDG2909,qcom,sagit ,aruba3gzc,armeabi,sagit-user 4.4.2 NMF26X 381180523 release-keys,SM-G955F,Xiaomi ,null,Dalvik,1
+armeabi-v7a,ubuntu-121-161,qcom,R11,unknown,armeabi,R11-user 4.4.2 NMF26X 381180418 release-keys,sdm660,OPPO,null,Dalvik,1
+armeabi-v7a,ubuntu-121-161,qcom,R11,unknown,armeabi,R11-user 4.4.2 NMF26X 381180418 release-keys,sdm660,OPPO,null,Dalvik,1
+armeabi-v7a,ubuntu,mt6589,R823T,unknown,armeabi,HUAWEI,GRA-TL00,OPPO,null,Dalvik,1
+armeabi-v7a,ubuntu-121-161,qcom,R11,unknown,armeabi,R11-user 4.4.2 NMF26X 381180418 release-keys,sdm660,OPPO,null,Dalvik,1
+armeabi-v7a,siajk233cna,hi6250,HNNEM-H,unknown,armeabi,NEM-AL10C00B192,NEM-AL10,HUAWEI,HONORNEM-AL10,ART,1
+armeabi-v7a,siajk233cna,hi6250,HNNEM-H,unknown,armeabi,NEM-AL10C00B192,NEM-AL10,HUAWEI,HONORNEM-AL10,ART,1
+armeabi-v7a,ubuntu-121-161,qcom,R11,unknown,armeabi,R11-user 4.4.2 NMF26X 381180418 release-keys,sdm660,OPPO,null,Dalvik,1
+armeabi-v7a,ubuntu-121-161,qcom,R11,unknown,armeabi,R11-user 4.4.2 NMF26X 381180418 release-keys,sdm660,OPPO,null,Dalvik,1
+armeabi-v7a,ubuntu-121-161,qcom,R11,unknown,armeabi,R11-user 4.4.2 NMF26X 381180529 release-keys,sdm660,OPPO,null,Dalvik,1
+armeabi-v7a,SWDG2909,samsungexynox8895,sagit ,A7000ZCU1BPE1,armeabi,sagit-user 4.4.2 NMF26X 381180529 release-keys,universal8895,Xiaomi ,null,Dalvik,1
+armeabi-v7a,WUH1000105879,qcom,SM-G925F,unknown,armeabi,SM-G925F-user 4.4.2 JLS36C 381180529 release-keys,MLA-AL10,samsung,null,Dalvik,1
+armeabi-v7a,ubuntu-121-161,qcom,R11,unknown,armeabi,R11-user 4.4.2 NMF26X 381180418 release-keys,sdm660,OPPO,null,Dalvik,1
+armeabi-v7a,android-PC,sofiaboard,sofia3gr_car,1639.400_M1S1,armeabi,sofia3gr_car-userdebug 5.1.1 LMY49F eng.levilin.20180328.164737 test-keys,rk30sdk,Rockchip,LMY49F,ART,1
+armeabi-v7a,ubuntu-121-161,qcom,R11,unknown,armeabi,R11-user 4.4.2 NMF26X 381180529 release-keys,sdm660,OPPO,null,Dalvik,1
+armeabi-v7a,DOOV,mt6755,DOOV L9,unknown,armeabi,L9_11_3.15_170301,DOOV L9,DOOV,MRA58K,ART,1
+armeabi-v7a,huawei-desktop,qcom,HWDIG-L8940,unknown,armeabi,Diego-AL00C00B165,DIG-AL00,HUAWEI,HUAWEIDIG-AL00,ART,1
+armeabi-v7a,ubuntu-121-161,qcom,R11,unknown,armeabi,R11-user 4.4.2 NMF26X 381180418 release-keys,sdm660,OPPO,null,Dalvik,1
+armeabi-v7a,wuhjk0361cna,hi3635,HWCRR,unknown,armeabi,CRR-UL00C00B370,CRR-UL00,HUAWEI,HUAWEICRR-UL00,ART,1
+armeabi-v7a,wuhjk0361cna,hi3635,HWCRR,unknown,armeabi,CRR-UL00C00B370,CRR-UL00,HUAWEI,HUAWEICRR-UL00,ART,1
+x86,SWDB4706,qcom,cs02ve3g,unknown,armeabi-v7a,cs02ve3gctc-user 4.4.2 JLS36C 3.8.017.0927 release-keys,PRO5,samsung,null,Dalvik,1
+armeabi-v7a,wuhjk0361cna,hi3635,HWCRR,unknown,armeabi,CRR-UL00C00B370,CRR-UL00,HUAWEI,HUAWEICRR-UL00,ART,1
+armeabi-v7a,SWDG2909,qcom,SM-G955F,A9000ZCU1BQC1,armeabi,SM-G955F-user 4.4.2 JLS36C 381180523 release-keys,SM-G955F,samsung,null,Dalvik,1
+armeabi-v7a,SWDG2909,qcom,sagit ,aruba3gzc,armeabi,sagit-user 4.4.2 NMF26X 381180523 release-keys,SM-G955F,Xiaomi ,null,Dalvik,1
+armeabi-v7a,DOOV,mt6735,DOOV C70,unknown,armeabi,AY.C70_11_3.05_180326,DOOV C70,DOOV,MRA58K,ART,1
+armeabi-v7a,SWDG2909,qcom,SM-G955F,A9000ZCU1BQC1,armeabi,SM-G955F-user 4.4.2 JLS36C 381180523 release-keys,SM-G955F,samsung,null,Dalvik,1
+armeabi-v7a,DOOV,mt6735,DOOV C70,unknown,armeabi,AY.C70_11_3.05_180326,DOOV C70,DOOV,MRA58K,ART,1
+armeabi-v7a,DOOV,mt6735,DOOV C70,unknown,armeabi,AY.C70_11_3.05_180326,DOOV C70,DOOV,MRA58K,ART,1
+armeabi-v7a,siajk233cna,hi6250,HNNEM-H,unknown,armeabi,NEM-AL10C00B192,NEM-AL10,HUAWEI,HONORNEM-AL10,ART,1
+armeabi-v7a,SWDG2909,qcom,SM-G955F,A9000ZCU1BQC1,armeabi,SM-G955F-user 4.4.2 JLS36C 381180523 release-keys,SM-G955F,samsung,null,Dalvik,1
+armeabi-v7a,SWDG2909,qcom,SM-G955F,A9000ZCU1BQC1,armeabi,SM-G955F-user 4.4.2 JLS36C 381180523 release-keys,SM-G955F,samsung,null,Dalvik,1
+armeabi-v7a,SWDG2909,qcom,SM-G955F,A9000ZCU1BQC1,armeabi,SM-G955F-user 4.4.2 JLS36C 381180523 release-keys,SM-G955F,samsung,null,Dalvik,1
+armeabi-v7a,SWDG2909,qcom,SM-G955F,A9000ZCU1BQC1,armeabi,SM-G955F-user 4.4.2 JLS36C 381180523 release-keys,SM-G955F,samsung,null,Dalvik,1
+armeabi-v7a,SWDG2909,qcom,sagit ,aruba3gzc,armeabi,sagit-user 4.4.2 NMF26X 381180523 release-keys,SM-G955F,Xiaomi ,null,Dalvik,1
+armeabi-v7a,SWDG2909,qcom,sagit ,aruba3gzc,armeabi,sagit-user 4.4.2 NMF26X 381180523 release-keys,SM-G955F,Xiaomi ,null,Dalvik,1
+armeabi-v7a,siajk233cna,hi6250,HNNEM-H,unknown,armeabi,NEM-AL10C00B192,NEM-AL10,HUAWEI,HONORNEM-AL10,ART,1
+armeabi-v7a,wuhjk0361cna,hi3635,HWCRR,unknown,armeabi,CRR-UL00C00B370,CRR-UL00,HUAWEI,HUAWEICRR-UL00,ART,1
+armeabi-v7a,DOOV,mt6755,DOOV L9,unknown,armeabi,L9_11_3.15_170301,DOOV L9,DOOV,MRA58K,ART,1
+armeabi-v7a,siajk233cna,hi6250,HNNEM-H,unknown,armeabi,NEM-AL10C00B192,NEM-AL10,HUAWEI,HONORNEM-AL10,ART,1
+armeabi-v7a,ubuntu-121-161,qcom,HWMLA ,unknown,armeabi,MLA-AL10-user 4.4.2 HUAWEIMLA-AL10 381180224 release-keys,sdm660,HUAWEI ,null,Dalvik,1
+armeabi-v7a,DOOV,mt6735,DOOV C70,unknown,armeabi,AY.C70_11_3.05_180326,DOOV C70,DOOV,MRA58K,ART,1
+armeabi-v7a,compiler025,qcom,PD1602,unknown,armeabi,LMY47V release-keys,msm8952,vivo,LMY47V,ART,0
+armeabi-v7a,SWDB2804,qcom,megapluslte,I9158VZMUAPD2,armeabi,JLS36C.I9158VZMUAPD2,MSM8926,samsung,JLS36C,Dalvik,0
+armeabi-v7a,shajk0111cna,hi6250,HWFIG-H,unknown,armeabi,FIG-AL00 8.0.0.163(C00),FIG-AL00,HUAWEI,HUAWEIFIG-AL00,ART,0
+armeabi-v7a,compiler02301,qcom,PD1621,unknown,armeabi,MMB29M release-keys,QC_Reference_Phone,vivo,MMB29M,ART,0
+armeabi-v7a,compiler027,qcom,PD1624,unknown,armeabi,N2G47H release-keys,msm8953,vivo,N2G47H,ART,0
+armeabi-v7a,wuhjk0361cna,hi3635,HWCRR,unknown,armeabi,CRR-UL00C00B370,CRR-UL00,HUAWEI,HUAWEICRR-UL00,ART,1
+armeabi-v7a,SWDG2909,qcom,sagit ,aruba3gzc,armeabi,sagit-user 4.4.2 NMF26X 381180523 release-keys,SM-G955F,Xiaomi ,null,Dalvik,1
+armeabi-v7a,ubuntu-121-161,qcom,R11,unknown,armeabi,R11-user 4.4.2 NMF26X 381180418 release-keys,sdm660,OPPO,null,Dalvik,1
+armeabi-v7a,ubuntu-121-161,qcom,R11,unknown,armeabi,R11-user 4.4.2 NMF26X 381180418 release-keys,sdm660,OPPO,null,Dalvik,1
+armeabi-v7a,ubuntu-121-161,qcom,R11,unknown,armeabi,R11-user 4.4.2 NMF26X 381180418 release-keys,sdm660,OPPO,null,Dalvik,1
+armeabi-v7a,siajk233cna,hi6250,HNNEM-H,unknown,armeabi,NEM-AL10C00B192,NEM-AL10,HUAWEI,HONORNEM-AL10,ART,1
+armeabi-v7a,ubuntu-121-161,qcom,R11,unknown,armeabi,R11-user 4.4.2 NMF26X 381180418 release-keys,sdm660,OPPO,null,Dalvik,1
+armeabi-v7a,DOOV,mt6755,DOOV L9,unknown,armeabi,L9_11_3.15_170301,DOOV L9,DOOV,MRA58K,ART,1
+armeabi-v7a,ubuntu-121-161,qcom,R11,unknown,armeabi,R11-user 4.4.2 NMF26X 381180418 release-keys,sdm660,OPPO,null,Dalvik,1
+armeabi-v7a,ubuntu-121-161,qcom,R11,unknown,armeabi,R11-user 4.4.2 NMF26X 381180418 release-keys,sdm660,OPPO,null,Dalvik,1
+armeabi-v7a,ubuntu-121-161,qcom,R11,unknown,armeabi,R11-user 4.4.2 NMF26X 381180418 release-keys,sdm660,OPPO,null,Dalvik,1
+armeabi-v7a,ubuntu-121-161,qcom,R11,unknown,armeabi,R11-user 4.4.2 NMF26X 381180529 release-keys,sdm660,OPPO,null,Dalvik,1
+armeabi-v7a,WUH1000105879,qcom,PD1624,unknown,armeabi,PD1624-user 4.4.2 NMF26F 381180529 release-keys,MLA-AL10,vivo,null,Dalvik,1
+armeabi-v7a,WUH1000105879,qcom,HWMLA ,unknown,armeabi,MLA-AL10-user 4.4.2 HUAWEIMLA-AL10 381180529 release-keys,MLA-AL10,HUAWEI ,null,Dalvik,1
+armeabi-v7a,wuhjk0361cna,hi3635,HWCRR,unknown,armeabi,CRR-UL00C00B370,CRR-UL00,HUAWEI,HUAWEICRR-UL00,ART,1
+armeabi-v7a,android-PC,sofiaboard,sofia3gr_car,1639.400_M1S1,armeabi,sofia3gr_car-userdebug 5.1.1 LMY49F eng.levilin.20180328.164737 test-keys,rk30sdk,Rockchip,LMY49F,ART,1
+armeabi-v7a,wuhjk0361cna,hi3635,HWCRR,unknown,armeabi,CRR-UL00C00B370,CRR-UL00,HUAWEI,HUAWEICRR-UL00,ART,1
+armeabi-v7a,siajk233cna,hi6250,HNNEM-H,unknown,armeabi,NEM-AL10C00B192,NEM-AL10,HUAWEI,HONORNEM-AL10,ART,1
+armeabi-v7a,DOOV,mt6755,DOOV L9,unknown,armeabi,L9_11_3.15_170301,DOOV L9,DOOV,MRA58K,ART,1
+armeabi-v7a,siajk233cna,hi6250,HNNEM-H,unknown,armeabi,NEM-AL10C00B192,NEM-AL10,HUAWEI,HONORNEM-AL10,ART,1
+armeabi-v7a,DOOV,mt6755,DOOV L9,unknown,armeabi,L9_11_3.15_170301,DOOV L9,DOOV,MRA58K,ART,1
+armeabi-v7a,wuhjk0361cna,hi3635,HWCRR,unknown,armeabi,CRR-UL00C00B370,CRR-UL00,HUAWEI,HUAWEICRR-UL00,ART,1
+armeabi-v7a,siajk233cna,hi6250,HNNEM-H,unknown,armeabi,NEM-AL10C00B192,NEM-AL10,HUAWEI,HONORNEM-AL10,ART,1
+armeabi-v7a,wuhjk0361cna,hi3635,HWCRR,unknown,armeabi,CRR-UL00C00B370,CRR-UL00,HUAWEI,HUAWEICRR-UL00,ART,1
+armeabi-v7a,SWDG2909,qcom,SM-G955F,A9000ZCU1BQC1,armeabi,SM-G955F-user 4.4.2 JLS36C 381180523 release-keys,SM-G955F,samsung,null,Dalvik,1
+armeabi-v7a,SWDG2909,qcom,sagit ,aruba3gzc,armeabi,sagit-user 4.4.2 NMF26X 381180523 release-keys,SM-G955F,Xiaomi ,null,Dalvik,1
+armeabi-v7a,DOOV,mt6735,DOOV C70,unknown,armeabi,AY.C70_11_3.05_180326,DOOV C70,DOOV,MRA58K,ART,1
+armeabi-v7a,SWDG2909,qcom,SM-G955F,A9000ZCU1BQC1,armeabi,SM-G955F-user 4.4.2 JLS36C 381180523 release-keys,SM-G955F,samsung,null,Dalvik,1
+armeabi-v7a,DOOV,mt6755,DOOV L9,unknown,armeabi,L9_11_3.15_170301,DOOV L9,DOOV,MRA58K,ART,1
+armeabi-v7a,SWDG2909,qcom,SM-G955F,A9000ZCU1BQC1,armeabi,SM-G955F-user 4.4.2 JLS36C 381180523 release-keys,SM-G955F,samsung,null,Dalvik,1
+armeabi-v7a,SWDG2909,qcom,SM-G955F,A9000ZCU1BQC1,armeabi,SM-G955F-user 4.4.2 JLS36C 381180523 release-keys,SM-G955F,samsung,null,Dalvik,1
+armeabi-v7a,SWDG2909,qcom,SM-G955F,A9000ZCU1BQC1,armeabi,SM-G955F-user 4.4.2 JLS36C 381180523 release-keys,SM-G955F,samsung,null,Dalvik,1
+armeabi-v7a,SWDG2909,qcom,SM-G955F,A9000ZCU1BQC1,armeabi,SM-G955F-user 4.4.2 JLS36C 381180523 release-keys,SM-G955F,samsung,null,Dalvik,1
+armeabi-v7a,wuhjk0361cna,hi3635,HWCRR,unknown,armeabi,CRR-UL00C00B370,CRR-UL00,HUAWEI,HUAWEICRR-UL00,ART,1
+armeabi-v7a,SWDG2909,qcom,SM-G955F,A9000ZCU1BQC1,armeabi,SM-G955F-user 4.4.2 JLS36C 381180523 release-keys,SM-G955F,samsung,null,Dalvik,1
+armeabi-v7a,SWDG2909,qcom,SM-G955F,A9000ZCU1BQC1,armeabi,SM-G955F-user 4.4.2 JLS36C 381180523 release-keys,SM-G955F,samsung,null,Dalvik,1
+armeabi-v7a,SWDG2909,qcom,SM-G955F,A9000ZCU1BQC1,armeabi,SM-G955F-user 4.4.2 JLS36C 381180523 release-keys,SM-G955F,samsung,null,Dalvik,1
+armeabi-v7a,SWDG2909,qcom,sagit ,aruba3gzc,armeabi,sagit-user 4.4.2 NMF26X 381180523 release-keys,SM-G955F,Xiaomi ,null,Dalvik,1
+armeabi-v7a,SWDG2909,qcom,SM-G955F,A9000ZCU1BQC1,armeabi,SM-G955F-user 4.4.2 JLS36C 381180523 release-keys,SM-G955F,samsung,null,Dalvik,1
+armeabi-v7a,siajk233cna,hi6250,HNNEM-H,unknown,armeabi,NEM-AL10C00B192,NEM-AL10,HUAWEI,HONORNEM-AL10,ART,1
+armeabi-v7a,DOOV,mt6755,DOOV L9,unknown,armeabi,L9_11_3.15_170301,DOOV L9,DOOV,MRA58K,ART,1
+armeabi-v7a,ubuntu-121-161,qcom,HWMLA ,unknown,armeabi,MLA-AL10-user 4.4.2 HUAWEIMLA-AL10 381180224 release-keys,sdm660,HUAWEI ,null,Dalvik,1
+armeabi-v7a,DOOV,mt6735,DOOV C70,unknown,armeabi,AY.C70_11_3.05_180326,DOOV C70,DOOV,MRA58K,ART,1
+armeabi-v7a,huawei-RH2288H-V2-12L,hi3630,hwmt7,unknown,armeabi,MT7-TL00C01B571,MT7-TL00,HUAWEI,HuaweiMT7-TL00,ART,0
+armeabi-v7a,c3-miui-ota-bd21.bj,qcom,virgo,unknown,armeabi,MMB29M,MSM8974,Xiaomi,MMB29M,ART,0
+armeabi-v7a,c3-miui-ota-bd54.bj,qcom,capricorn,unknown,armeabi,MXB48T,msm8996,Xiaomi,MXB48T,ART,0
+armeabi-v7a,CPBJ-56,mt6797,le_x6,unknown,armeabi,HCXCNCT5801607151S release-keys,unknown,LeMobile,HCXCNCT5801607151S,ART,0
+armeabi-v7a,compiler030,qcom,PD1619,unknown,armeabi,N2G47H release-keys,msm8952,vivo,N2G47H,ART,0
+armeabi-v7a,wuhjk0361cna,hi3635,HWCRR,unknown,armeabi,CRR-UL00C00B370,CRR-UL00,HUAWEI,HUAWEICRR-UL00,ART,1
+armeabi-v7a,SWDG2909,qcom,sagit ,aruba3gzc,armeabi,sagit-user 4.4.2 NMF26X 381180523 release-keys,SM-G955F,Xiaomi ,null,Dalvik,1
+armeabi-v7a,ubuntu-121-161,qcom,R11,unknown,armeabi,R11-user 4.4.2 NMF26X 381180418 release-keys,sdm660,OPPO,null,Dalvik,1
+armeabi-v7a,ubuntu-121-161,qcom,R11,unknown,armeabi,R11-user 4.4.2 NMF26X 381180418 release-keys,sdm660,OPPO,null,Dalvik,1
+armeabi-v7a,ubuntu-121-161,qcom,R11,unknown,armeabi,R11-user 4.4.2 NMF26X 381180418 release-keys,sdm660,OPPO,null,Dalvik,1
+armeabi-v7a,siajk233cna,hi6250,HNNEM-H,unknown,armeabi,NEM-AL10C00B192,NEM-AL10,HUAWEI,HONORNEM-AL10,ART,1
+armeabi-v7a,DOOV,mt6755,DOOV L9,unknown,armeabi,L9_11_3.15_170301,DOOV L9,DOOV,MRA58K,ART,1
+armeabi-v7a,siajk233cna,hi6250,HNNEM-H,unknown,armeabi,NEM-AL10C00B192,NEM-AL10,HUAWEI,HONORNEM-AL10,ART,1
+armeabi-v7a,ubuntu-121-161,qcom,R11,unknown,armeabi,R11-user 4.4.2 NMF26X 381180418 release-keys,sdm660,OPPO,null,Dalvik,1
+armeabi-v7a,ubuntu-121-161,qcom,R11,unknown,armeabi,R11-user 4.4.2 NMF26X 381180418 release-keys,sdm660,OPPO,null,Dalvik,1
+armeabi-v7a,ubuntu-121-161,qcom,R11,unknown,armeabi,R11-user 4.4.2 NMF26X 381180418 release-keys,sdm660,OPPO,null,Dalvik,1
+armeabi-v7a,ubuntu-121-161,qcom,R11,unknown,armeabi,R11-user 4.4.2 NMF26X 381180529 release-keys,sdm660,OPPO,null,Dalvik,1
+armeabi-v7a,WUH1000105879,qcom,HWMLA ,unknown,armeabi,MLA-AL10-user 4.4.2 HUAWEIMLA-AL10 381180529 release-keys,MLA-AL10,HUAWEI ,null,Dalvik,1
+armeabi-v7a,ubuntu-121-161,qcom,R11,unknown,armeabi,R11-user 4.4.2 NMF26X 381180529 release-keys,sdm660,OPPO,null,Dalvik,1
+armeabi-v7a,Secneo,qcom,sagit ,unknown,armeabi,sagit-user 4.4.2 NMF26X 381180224 release-keys,moorefield,Bangcle,null,Dalvik,1
+armeabi-v7a,android-PC,sofiaboard,sofia3gr_car,1639.400_M1S1,armeabi,sofia3gr_car-userdebug 5.1.1 LMY49F eng.levilin.20180328.164737 test-keys,rk30sdk,Rockchip,LMY49F,ART,1
+armeabi-v7a,WUH1000105879,qcom,natrium,unknown,armeabi,natrium-user 4.4.2 NRD90M 381180529 release-keys,MLA-AL10,Xiaomi ,null,Dalvik,1
+armeabi-v7a,wuhjk0361cna,hi3635,HWCRR,unknown,armeabi,CRR-UL00C00B370,CRR-UL00,HUAWEI,HUAWEICRR-UL00,ART,1
+armeabi-v7a,siajk233cna,hi6250,HNNEM-H,unknown,armeabi,NEM-AL10C00B192,NEM-AL10,HUAWEI,HONORNEM-AL10,ART,1
+armeabi-v7a,siajk233cna,hi6250,HNNEM-H,unknown,armeabi,NEM-AL10C00B192,NEM-AL10,HUAWEI,HONORNEM-AL10,ART,1
+armeabi-v7a,android-PC,sofiaboard,sofia3gr_car,1639.400_M1S1,armeabi,sofia3gr_car-userdebug 5.1.1 LMY49F eng.levilin.20180328.164737 test-keys,rk30sdk,Rockchip,LMY49F,ART,1
+armeabi-v7a,siajk233cna,hi6250,HNNEM-H,unknown,armeabi,NEM-AL10C00B192,NEM-AL10,HUAWEI,HONORNEM-AL10,ART,1
+armeabi-v7a,DOOV,mt6755,DOOV L9,unknown,armeabi,L9_11_3.15_170301,DOOV L9,DOOV,MRA58K,ART,1
+armeabi-v7a,SWDG2909,qcom,SM-G955F,A9000ZCU1BQC1,armeabi,SM-G955F-user 4.4.2 JLS36C 381180523 release-keys,SM-G955F,samsung,null,Dalvik,1
+armeabi-v7a,SWDG2909,qcom,SM-G955F,A9000ZCU1BQC1,armeabi,SM-G955F-user 4.4.2 JLS36C 381180523 release-keys,SM-G955F,samsung,null,Dalvik,1
+armeabi-v7a,SWDG2909,qcom,sagit ,aruba3gzc,armeabi,sagit-user 4.4.2 NMF26X 381180523 release-keys,SM-G955F,Xiaomi ,null,Dalvik,1
+armeabi-v7a,DOOV,mt6735,DOOV C70,unknown,armeabi,AY.C70_11_3.05_180326,DOOV C70,DOOV,MRA58K,ART,1
+armeabi-v7a,wuhjk0361cna,hi3635,HWCRR,unknown,armeabi,CRR-UL00C00B370,CRR-UL00,HUAWEI,HUAWEICRR-UL00,ART,1
+armeabi-v7a,DOOV,mt6735,DOOV C70,unknown,armeabi,AY.C70_11_3.05_180326,DOOV C70,DOOV,MRA58K,ART,1
+armeabi-v7a,DOOV,mt6735,DOOV C70,unknown,armeabi,AY.C70_11_3.05_180326,DOOV C70,DOOV,MRA58K,ART,1
+armeabi-v7a,SWDG2909,qcom,SM-G955F,A9000ZCU1BQC1,armeabi,SM-G955F-user 4.4.2 JLS36C 381180523 release-keys,SM-G955F,samsung,null,Dalvik,1
+armeabi-v7a,SWDG2909,qcom,SM-G955F,A9000ZCU1BQC1,armeabi,SM-G955F-user 4.4.2 JLS36C 381180523 release-keys,SM-G955F,samsung,null,Dalvik,1
+armeabi-v7a,SWDG2909,qcom,SM-G955F,A9000ZCU1BQC1,armeabi,SM-G955F-user 4.4.2 JLS36C 381180523 release-keys,SM-G955F,samsung,null,Dalvik,1
+armeabi-v7a,SWDG2909,qcom,SM-G955F,A9000ZCU1BQC1,armeabi,SM-G955F-user 4.4.2 JLS36C 381180523 release-keys,SM-G955F,samsung,null,Dalvik,1
+armeabi-v7a,SWDG2909,qcom,SM-G955F,A9000ZCU1BQC1,armeabi,SM-G955F-user 4.4.2 JLS36C 381180523 release-keys,SM-G955F,samsung,null,Dalvik,1
+armeabi-v7a,SWDG2909,qcom,sagit ,aruba3gzc,armeabi,sagit-user 4.4.2 NMF26X 381180523 release-keys,SM-G955F,Xiaomi ,null,Dalvik,1
+armeabi-v7a,SWDG2909,qcom,sagit ,aruba3gzc,armeabi,sagit-user 4.4.2 NMF26X 381180523 release-keys,SM-G955F,Xiaomi ,null,Dalvik,1
+armeabi-v7a,SWDG2909,qcom,sagit ,aruba3gzc,armeabi,sagit-user 4.4.2 NMF26X 381180523 release-keys,SM-G955F,Xiaomi ,null,Dalvik,1
+armeabi-v7a,huawei-desktop,qcom,HWDIG-L8940,unknown,armeabi,Diego-AL00C00B165,DIG-AL00,HUAWEI,HUAWEIDIG-AL00,ART,1
+armeabi-v7a,SWDG2909,qcom,SM-G955F,A9000ZCU1BQC1,armeabi,SM-G955F-user 4.4.2 JLS36C 381180523 release-keys,SM-G955F,samsung,null,Dalvik,1
+armeabi-v7a,DOOV,mt6755,DOOV L9,unknown,armeabi,L9_11_3.15_170301,DOOV L9,DOOV,MRA58K,ART,1
+armeabi-v7a,ubuntu-121-161,qcom,HWMLA ,unknown,armeabi,MLA-AL10-user 4.4.2 HUAWEIMLA-AL10 381180224 release-keys,sdm660,HUAWEI ,null,Dalvik,1
+armeabi-v7a,DOOV,mt6735,DOOV C70,unknown,armeabi,AY.C70_11_3.05_180326,DOOV C70,DOOV,MRA58K,ART,1
+armeabi-v7a,ubuntu-121-139,qcom,R9s,unknown,armeabi,R9s_11_A.25_180418,msm8953,OPPO,MMB29M,ART,0
+armeabi-v7a,SIA1000065384,hi6250,HWBLN-H,unknown,armeabi,BLN-TL10C752B381,hi6250,HUAWEI,HONORBLN-TL10,ART,0
+armeabi-v7a,wuhjk0381cna,hi3650,HWFRD,unknown,armeabi,FRD-AL10C00B396,FRD,HUAWEI,HUAWEIFRD-AL10,ART,0
+armeabi-v7a,compiler0105,qcom,PD1731,unknown,armeabi,OPM1.171019.011 release-keys,QC_Reference_Phone,vivo,OPM1.171019.011,ART,0
+armeabi-v7a,compiler024,qcom,msm8974,unknown,armeabi,KVT49L dev-keys,MSM8974,BBK,KVT49L,Dalvik,0
+armeabi-v7a,siajk233cna,hi6250,HNNEM-H,unknown,armeabi,NEM-AL10C00B192,NEM-AL10,HUAWEI,HONORNEM-AL10,ART,1
+armeabi-v7a,SWDG2909,qcom,sagit ,aruba3gzc,armeabi,sagit-user 4.4.2 NMF26X 381180523 release-keys,SM-G955F,Xiaomi ,null,Dalvik,1
+armeabi-v7a,SWDG2909,qcom,sagit ,aruba3gzc,armeabi,sagit-user 4.4.2 NMF26X 381180523 release-keys,SM-G955F,Xiaomi ,null,Dalvik,1
+armeabi-v7a,ubuntu-121-161,qcom,R11,unknown,armeabi,R11-user 4.4.2 NMF26X 381180418 release-keys,sdm660,OPPO,null,Dalvik,1
+armeabi-v7a,ubuntu-121-161,qcom,R11,unknown,armeabi,R11-user 4.4.2 NMF26X 381180418 release-keys,sdm660,OPPO,null,Dalvik,1
+armeabi-v7a,wuhjk0361cna,hi3635,HWCRR,unknown,armeabi,CRR-UL00C00B370,CRR-UL00,HUAWEI,HUAWEICRR-UL00,ART,1
+armeabi-v7a,ubuntu-121-161,qcom,R11,unknown,armeabi,R11-user 4.4.2 NMF26X 381180418 release-keys,sdm660,OPPO,null,Dalvik,1
+armeabi-v7a,ubuntu-121-161,qcom,R11,unknown,armeabi,R11-user 4.4.2 NMF26X 381180418 release-keys,sdm660,OPPO,null,Dalvik,1
+armeabi-v7a,ubuntu-121-161,qcom,R11,unknown,armeabi,R11-user 4.4.2 NMF26X 381180418 release-keys,sdm660,OPPO,null,Dalvik,1
+armeabi-v7a,ubuntu-121-161,qcom,R11,unknown,armeabi,R11-user 4.4.2 NMF26X 381180418 release-keys,sdm660,OPPO,null,Dalvik,1
+armeabi-v7a,ubuntu-121-161,qcom,R11,unknown,armeabi,R11-user 4.4.2 NMF26X 381180418 release-keys,sdm660,OPPO,null,Dalvik,1
+armeabi-v7a,SWDG2909,samsungexynox8895,sagit ,A7000ZCU1BPE1,armeabi,sagit-user 4.4.2 NMF26X 381180529 release-keys,universal8895,Xiaomi ,null,Dalvik,1
+armeabi-v7a,WUH1000105879,qcom,M6Note,unknown,armeabi,meizu_M6Note-user 4.4.2 N2G47H 381180529 release-keys,MLA-AL10,Meizu,null,Dalvik,1
+armeabi-v7a,WUH1000105879,qcom,natrium,unknown,armeabi,natrium-user 4.4.2 NRD90M 381180529 release-keys,MLA-AL10,Xiaomi ,null,Dalvik,1
+armeabi-v7a,ubuntu-121-161,qcom,R11,unknown,armeabi,R11-user 4.4.2 NMF26X 381180418 release-keys,sdm660,OPPO,null,Dalvik,1
+x86,osboxes,cancro,cancro,U-Boot,armeabi-v7a,cancro-eng 4.4.4 V417IR eng.root.20180201.174500 release-keys,hammerhead,Netease,V417IR,Dalvik,1
+armeabi-v7a,WUH1000105879,qcom,natrium,unknown,armeabi,natrium-user 4.4.2 NRD90M 381180529 release-keys,MLA-AL10,Xiaomi ,null,Dalvik,1
+armeabi-v7a,huawei-RH2288H-V2-12L,hi3630,hwmt7,unknown,armeabi,MT7-TL10C00B571,MT7-TL10,HUAWEI,HuaweiMT7-TL10,ART,1
+armeabi-v7a,siajk233cna,hi6250,HNNEM-H,unknown,armeabi,NEM-AL10C00B192,NEM-AL10,HUAWEI,HONORNEM-AL10,ART,1
+armeabi-v7a,ubuntu,vbox86,vbox86tp,unknown,armeabi,vbox86tp-userdebug,unknown,Genymotion,JDQ39E,Dalvik,1
+armeabi-v7a,wuhjk0361cna,hi3635,HWCRR,unknown,armeabi,CRR-UL00C00B370,CRR-UL00,HUAWEI,HUAWEICRR-UL00,ART,1
+armeabi-v7a,DOOV,mt6755,DOOV L9,unknown,armeabi,L9_11_3.15_170301,DOOV L9,DOOV,MRA58K,ART,1
+armeabi-v7a,siajk233cna,hi6250,HNNEM-H,unknown,armeabi,NEM-AL10C00B192,NEM-AL10,HUAWEI,HONORNEM-AL10,ART,1
+armeabi-v7a,siajk233cna,hi6250,HNNEM-H,unknown,armeabi,NEM-AL10C00B192,NEM-AL10,HUAWEI,HONORNEM-AL10,ART,1
+armeabi-v7a,SWDG2909,qcom,SM-G955F,A9000ZCU1BQC1,armeabi,SM-G955F-user 4.4.2 JLS36C 381180523 release-keys,SM-G955F,samsung,null,Dalvik,1
+armeabi-v7a,SWDG2909,qcom,sagit ,aruba3gzc,armeabi,sagit-user 4.4.2 NMF26X 381180523 release-keys,SM-G955F,Xiaomi ,null,Dalvik,1
+armeabi-v7a,DOOV,mt6735,DOOV C70,unknown,armeabi,AY.C70_11_3.05_180326,DOOV C70,DOOV,MRA58K,ART,1
+armeabi-v7a,SWDG2909,qcom,SM-G955F,A9000ZCU1BQC1,armeabi,SM-G955F-user 4.4.2 JLS36C 381180523 release-keys,SM-G955F,samsung,null,Dalvik,1
+armeabi-v7a,DOOV,mt6735,DOOV C70,unknown,armeabi,AY.C70_11_3.05_180326,DOOV C70,DOOV,MRA58K,ART,1
+armeabi-v7a,SWDG2909,qcom,sagit ,aruba3gzc,armeabi,sagit-user 4.4.2 NMF26X 381180523 release-keys,SM-G955F,Xiaomi ,null,Dalvik,1
+armeabi-v7a,SWDG2909,qcom,SM-G955F,A9000ZCU1BQC1,armeabi,SM-G955F-user 4.4.2 JLS36C 381180523 release-keys,SM-G955F,samsung,null,Dalvik,1
+armeabi-v7a,SWDG2909,qcom,SM-G955F,A9000ZCU1BQC1,armeabi,SM-G955F-user 4.4.2 JLS36C 381180523 release-keys,SM-G955F,samsung,null,Dalvik,1
+armeabi-v7a,SWDG2909,qcom,SM-G955F,A9000ZCU1BQC1,armeabi,SM-G955F-user 4.4.2 JLS36C 381180523 release-keys,SM-G955F,samsung,null,Dalvik,1
+armeabi-v7a,SWDG2909,qcom,SM-G955F,A9000ZCU1BQC1,armeabi,SM-G955F-user 4.4.2 JLS36C 381180523 release-keys,SM-G955F,samsung,null,Dalvik,1
+armeabi-v7a,SWDG2909,qcom,SM-G955F,A9000ZCU1BQC1,armeabi,SM-G955F-user 4.4.2 JLS36C 381180523 release-keys,SM-G955F,samsung,null,Dalvik,1
+armeabi-v7a,huawei-desktop,qcom,HWDIG-L8940,unknown,armeabi,Diego-AL00C00B165,DIG-AL00,HUAWEI,HUAWEIDIG-AL00,ART,1
+armeabi-v7a,SWDG2909,qcom,SM-G955F,A9000ZCU1BQC1,armeabi,SM-G955F-user 4.4.2 JLS36C 381180523 release-keys,SM-G955F,samsung,null,Dalvik,1
+armeabi-v7a,SWDG2909,qcom,sagit ,aruba3gzc,armeabi,sagit-user 4.4.2 NMF26X 381180523 release-keys,SM-G955F,Xiaomi ,null,Dalvik,1
+armeabi-v7a,wuhjk0361cna,hi3635,HWCRR,unknown,armeabi,CRR-UL00C00B370,CRR-UL00,HUAWEI,HUAWEICRR-UL00,ART,1
+armeabi-v7a,siajk233cna,hi6250,HNNEM-H,unknown,armeabi,NEM-AL10C00B192,NEM-AL10,HUAWEI,HONORNEM-AL10,ART,1
+armeabi-v7a,wuhjk0361cna,hi3635,HWCRR,unknown,armeabi,CRR-UL00C00B370,CRR-UL00,HUAWEI,HUAWEICRR-UL00,ART,1
+armeabi-v7a,ubuntu-121-161,qcom,HWMLA ,unknown,armeabi,MLA-AL10-user 4.4.2 HUAWEIMLA-AL10 381180224 release-keys,sdm660,HUAWEI ,null,Dalvik,1
+armeabi-v7a,SWDB2804,qcom,megapluslte,I9158VZMUAPD2,armeabi,JLS36C.I9158VZMUAPD2,MSM8926,samsung,JLS36C,Dalvik,0
+armeabi-v7a,Mz-Builder-l3,mt6755,m1621,unknown,armeabi,Flyme 5.2.11.0A,m1621,Meizu,MRA58K,ART,0
+armeabi-v7a,SWDB2804,qcom,megapluslte,I9158VZMUAPD2,armeabi,JLS36C.I9158VZMUAPD2,MSM8926,samsung,JLS36C,Dalvik,0
+armeabi-v7a,ubuntu-121-117,mt6752,R7,unknown,armeabi,R7_11_160819,oppo6752_15011,OPPO,KTU84P,Dalvik,0
+armeabi-v7a,compiler027,qcom,PD1616,unknown,armeabi,MMB29M release-keys,msm8953,vivo,MMB29M,ART,0
+armeabi-v7a,ubuntu-121-161,qcom,R11,unknown,armeabi,R11-user 4.4.2 NMF26X 381180418 release-keys,sdm660,OPPO,null,Dalvik,1
+armeabi-v7a,SWDG2909,qcom,sagit ,aruba3gzc,armeabi,sagit-user 4.4.2 NMF26X 381180523 release-keys,SM-G955F,Xiaomi ,null,Dalvik,1
+armeabi-v7a,SWDG2909,qcom,sagit ,aruba3gzc,armeabi,sagit-user 4.4.2 NMF26X 381180523 release-keys,SM-G955F,Xiaomi ,null,Dalvik,1
+armeabi-v7a,ubuntu-121-161,qcom,R11,unknown,armeabi,R11-user 4.4.2 NMF26X 381180418 release-keys,sdm660,OPPO,null,Dalvik,1
+armeabi-v7a,ubuntu-121-161,qcom,R11,unknown,armeabi,R11-user 4.4.2 NMF26X 381180418 release-keys,sdm660,OPPO,null,Dalvik,1
+armeabi-v7a,siajk233cna,hi6250,HNNEM-H,unknown,armeabi,NEM-AL10C00B192,NEM-AL10,HUAWEI,HONORNEM-AL10,ART,1
+armeabi-v7a,siajk233cna,hi6250,HNNEM-H,unknown,armeabi,NEM-AL10C00B192,NEM-AL10,HUAWEI,HONORNEM-AL10,ART,1
+armeabi-v7a,ubuntu-121-161,qcom,R11,unknown,armeabi,R11-user 4.4.2 NMF26X 381180418 release-keys,sdm660,OPPO,null,Dalvik,1
+armeabi-v7a,ubuntu-121-161,qcom,R11,unknown,armeabi,R11-user 4.4.2 NMF26X 381180418 release-keys,sdm660,OPPO,null,Dalvik,1
+armeabi-v7a,siajk233cna,hi6250,HNNEM-H,unknown,armeabi,NEM-AL10C00B192,NEM-AL10,HUAWEI,HONORNEM-AL10,ART,1
+armeabi-v7a,ubuntu-121-161,qcom,R11,unknown,armeabi,R11-user 4.4.2 NMF26X 381180418 release-keys,sdm660,OPPO,null,Dalvik,1
+armeabi-v7a,huawei-RH2288H-V2-12L,hi3630,hwmt7,unknown,armeabi,MT7-TL10C00B571,MT7-TL10,HUAWEI,HuaweiMT7-TL10,ART,1
+armeabi-v7a,WUH1000105879,qcom,SM-G925F,unknown,armeabi,SM-G925F-user 4.4.2 JLS36C 381180529 release-keys,MLA-AL10,samsung,null,Dalvik,1
+armeabi-v7a,WUH1000105879,qcom,HWMLA ,unknown,armeabi,MLA-AL10-user 4.4.2 HUAWEIMLA-AL10 381180529 release-keys,MLA-AL10,HUAWEI ,null,Dalvik,1
+armeabi-v7a,ubuntu-121-161,qcom,R11,unknown,armeabi,R11-user 4.4.2 NMF26X 381180418 release-keys,sdm660,OPPO,null,Dalvik,1
+armeabi-v7a,android-PC,sofiaboard,sofia3gr_car,1639.400_M1S1,armeabi,sofia3gr_car-userdebug 5.1.1 LMY49F eng.levilin.20180328.164737 test-keys,rk30sdk,Rockchip,LMY49F,ART,1
+armeabi-v7a,siajk233cna,hi6250,HNNEM-H,unknown,armeabi,NEM-AL10C00B192,NEM-AL10,HUAWEI,HONORNEM-AL10,ART,1
+armeabi-v7a,c3-miui-ota-bd78.bj,qcom,sagit ,unknown,armeabi,sagit-user 4.4.2 NMF26X 381180529 release-keys,msm8998,Xiaomi ,null,Dalvik,1
+armeabi-v7a,siajk233cna,hi6250,HNNEM-H,unknown,armeabi,NEM-AL10C00B192,NEM-AL10,HUAWEI,HONORNEM-AL10,ART,1
+armeabi-v7a,ubuntu,vbox86,vbox86tp,unknown,armeabi,vbox86tp-userdebug,unknown,Genymotion,JDQ39E,Dalvik,1
+armeabi-v7a,DOOV,mt6755,DOOV L9,unknown,armeabi,L9_11_3.15_170301,DOOV L9,DOOV,MRA58K,ART,1
+armeabi-v7a,wuhjk0361cna,hi3635,HWCRR,unknown,armeabi,CRR-UL00C00B370,CRR-UL00,HUAWEI,HUAWEICRR-UL00,ART,1
+armeabi-v7a,siajk233cna,hi6250,HNNEM-H,unknown,armeabi,NEM-AL10C00B192,NEM-AL10,HUAWEI,HONORNEM-AL10,ART,1
+armeabi-v7a,siajk233cna,hi6250,HNNEM-H,unknown,armeabi,NEM-AL10C00B192,NEM-AL10,HUAWEI,HONORNEM-AL10,ART,1
+armeabi-v7a,SWDG2909,qcom,SM-G955F,A9000ZCU1BQC1,armeabi,SM-G955F-user 4.4.2 JLS36C 381180523 release-keys,SM-G955F,samsung,null,Dalvik,1
+armeabi-v7a,SWDG2909,qcom,SM-G955F,A9000ZCU1BQC1,armeabi,SM-G955F-user 4.4.2 JLS36C 381180523 release-keys,SM-G955F,samsung,null,Dalvik,1
+armeabi-v7a,DOOV,mt6735,DOOV C70,unknown,armeabi,AY.C70_11_3.05_180326,DOOV C70,DOOV,MRA58K,ART,1
+armeabi-v7a,SWDG2909,qcom,SM-G955F,A9000ZCU1BQC1,armeabi,SM-G955F-user 4.4.2 JLS36C 381180523 release-keys,SM-G955F,samsung,null,Dalvik,1
+armeabi-v7a,DOOV,mt6735,DOOV C70,unknown,armeabi,AY.C70_11_3.05_180326,DOOV C70,DOOV,MRA58K,ART,1
+armeabi-v7a,DOOV,mt6735,DOOV C70,unknown,armeabi,AY.C70_11_3.05_180326,DOOV C70,DOOV,MRA58K,ART,1
+armeabi-v7a,SWDG2909,qcom,SM-G955F,A9000ZCU1BQC1,armeabi,SM-G955F-user 4.4.2 JLS36C 381180523 release-keys,SM-G955F,samsung,null,Dalvik,1
+armeabi-v7a,SWDG2909,qcom,SM-G955F,A9000ZCU1BQC1,armeabi,SM-G955F-user 4.4.2 JLS36C 381180523 release-keys,SM-G955F,samsung,null,Dalvik,1
+armeabi-v7a,SWDG2909,qcom,SM-G955F,A9000ZCU1BQC1,armeabi,SM-G955F-user 4.4.2 JLS36C 381180523 release-keys,SM-G955F,samsung,null,Dalvik,1
+armeabi-v7a,SWDG2909,qcom,SM-G955F,A9000ZCU1BQC1,armeabi,SM-G955F-user 4.4.2 JLS36C 381180523 release-keys,SM-G955F,samsung,null,Dalvik,1
+armeabi-v7a,SWDG2909,qcom,sagit ,aruba3gzc,armeabi,sagit-user 4.4.2 NMF26X 381180523 release-keys,SM-G955F,Xiaomi ,null,Dalvik,1
+armeabi-v7a,DOOV,mt6735,DOOV C70,unknown,armeabi,AY.C70_11_3.05_180326,DOOV C70,DOOV,MRA58K,ART,1
+armeabi-v7a,SWDG2909,qcom,sagit ,aruba3gzc,armeabi,sagit-user 4.4.2 NMF26X 381180523 release-keys,SM-G955F,Xiaomi ,null,Dalvik,1
+armeabi-v7a,DOOV,mt6755,DOOV L9,unknown,armeabi,L9_11_3.15_170301,DOOV L9,DOOV,MRA58K,ART,1
+armeabi-v7a,ubuntu,vbox86,vbox86tp,unknown,armeabi,vbox86tp-userdebug,unknown,Genymotion,JDQ39E,Dalvik,1
+armeabi-v7a,SWDG2909,qcom,SM-G955F,A9000ZCU1BQC1,armeabi,SM-G955F-user 4.4.2 JLS36C 381180523 release-keys,SM-G955F,samsung,null,Dalvik,1
+armeabi-v7a,ubuntu,vbox86,vbox86tp,unknown,armeabi,vbox86tp-userdebug,unknown,Genymotion,JDQ39E,Dalvik,1
+armeabi-v7a,ubuntu-121-161,qcom,HWMLA ,unknown,armeabi,MLA-AL10-user 4.4.2 HUAWEIMLA-AL10 381180224 release-keys,sdm660,HUAWEI ,null,Dalvik,1
+armeabi-v7a,c3-miui-ota-bd41.bj,qcom,cancro,unknown,armeabi,MMB29M,MSM8974,Xiaomi,MMB29M,ART,0
+armeabi-v7a,bianyi-24,mt6735,GiONEE_BBL7505,unknown,armeabi,amigo3.1.5,unknown,GiONEE,LMY47D,ART,0
+armeabi-v7a,wuhjk0381cna,hi3650,HWNXT,unknown,armeabi,NXT-AL10C00B596,NXT-AL10,HUAWEI,HUAWEINXT-AL10,ART,0
+armeabi-v7a,shajk0110cna,hi6250,HWWAS-H,unknown,armeabi,WAS-AL00C00B240,hi6250,HUAWEI,HUAWEIWAS-AL00,ART,0
+armeabi-v7a,WUH1000105879,qcom,HWMLA,unknown,armeabi,MLA-AL10C00B360,MLA-AL10,HUAWEI,HUAWEIMLA-AL10,ART,0
+armeabi-v7a,SWDG2909,qcom,sagit ,aruba3gzc,armeabi,sagit-user 4.4.2 NMF26X 381180523 release-keys,SM-G955F,Xiaomi ,null,Dalvik,1
+armeabi-v7a,ubuntu-121-161,qcom,R11,unknown,armeabi,R11-user 4.4.2 NMF26X 381180418 release-keys,sdm660,OPPO,null,Dalvik,1
+armeabi-v7a,ubuntu-121-161,qcom,R11,unknown,armeabi,R11-user 4.4.2 NMF26X 381180418 release-keys,sdm660,OPPO,null,Dalvik,1
+armeabi-v7a,ubuntu-121-161,qcom,R11,unknown,armeabi,R11-user 4.4.2 NMF26X 381180418 release-keys,sdm660,OPPO,null,Dalvik,1
+armeabi-v7a,ubuntu-121-161,qcom,R11,unknown,armeabi,R11-user 4.4.2 NMF26X 381180418 release-keys,sdm660,OPPO,null,Dalvik,1
+armeabi-v7a,siajk233cna,hi6250,HNNEM-H,unknown,armeabi,NEM-AL10C00B192,NEM-AL10,HUAWEI,HONORNEM-AL10,ART,1
+armeabi-v7a,ubuntu-121-161,qcom,R11,unknown,armeabi,R11-user 4.4.2 NMF26X 381180418 release-keys,sdm660,OPPO,null,Dalvik,1
+armeabi-v7a,ubuntu-121-161,qcom,R11,unknown,armeabi,R11-user 4.4.2 NMF26X 381180418 release-keys,sdm660,OPPO,null,Dalvik,1
+armeabi-v7a,android-PC,sofiaboard,sofia3gr_car,1639.400_M1S1,armeabi,sofia3gr_car-userdebug 5.1.1 LMY49F eng.levilin.20180328.164737 test-keys,rk30sdk,Rockchip,LMY49F,ART,1
+armeabi-v7a,wuhjk0361cna,hi3635,HWCRR,unknown,armeabi,CRR-UL00C00B370,CRR-UL00,HUAWEI,HUAWEICRR-UL00,ART,1
+armeabi-v7a,ubuntu-121-161,qcom,R11,unknown,armeabi,R11-user 4.4.2 NMF26X 381180418 release-keys,sdm660,OPPO,null,Dalvik,1
+armeabi-v7a,DOOV,mt6755,DOOV L9,unknown,armeabi,L9_11_3.15_170301,DOOV L9,DOOV,MRA58K,ART,1
+armeabi-v7a,siajk233cna,hi6250,HNNEM-H,unknown,armeabi,NEM-AL10C00B192,NEM-AL10,HUAWEI,HONORNEM-AL10,ART,1
+armeabi-v7a,ubuntu-121-161,qcom,R11,unknown,armeabi,R11-user 4.4.2 NMF26X 381180529 release-keys,sdm660,OPPO,null,Dalvik,1
+armeabi-v7a,ubuntu-121-161,qcom,R11,unknown,armeabi,R11-user 4.4.2 NMF26X 381180418 release-keys,sdm660,OPPO,null,Dalvik,1
+armeabi-v7a,android-PC,sofiaboard,sofia3gr_car,1639.400_M1S1,armeabi,sofia3gr_car-userdebug 5.1.1 LMY49F eng.levilin.20180328.164737 test-keys,rk30sdk,Rockchip,LMY49F,ART,1
+armeabi-v7a,siajk233cna,hi6250,HNNEM-H,unknown,armeabi,NEM-AL10C00B192,NEM-AL10,HUAWEI,HONORNEM-AL10,ART,1
+armeabi-v7a,SWDG2909,qcom,SM-G955F,unknown,armeabi,SM-G955F-user 4.4.2 JLS36C 381180529 release-keys,SM-G955F,samsung,null,Dalvik,1
+x86,osboxes,cancro,cancro,U-Boot,armeabi-v7a,cancro-eng 4.4.4 V417IR eng.root.20180315.100043 release-keys,hammerhead,Netease,V417IR,Dalvik,1
+armeabi-v7a,ubuntu-121-161,qcom,R11,unknown,armeabi,R11-user 4.4.2 NMF26X 381180418 release-keys,sdm660,OPPO,null,Dalvik,1
+armeabi-v7a,DOOV,mt6755,DOOV L9,unknown,armeabi,L9_11_3.15_170301,DOOV L9,DOOV,MRA58K,ART,1
+x86,SWDB4706,qcom,cs02ve3g,unknown,armeabi-v7a,cs02ve3gctc-user 4.4.2 JLS36C 3.8.017.0927 release-keys,PRO5,samsung,null,Dalvik,1
+armeabi-v7a,DOOV,mt6755,DOOV L9,unknown,armeabi,L9_11_3.15_170301,DOOV L9,DOOV,MRA58K,ART,1
+armeabi-v7a,SWDG2909,qcom,SM-G955F,A9000ZCU1BQC1,armeabi,SM-G955F-user 4.4.2 JLS36C 381180523 release-keys,SM-G955F,samsung,null,Dalvik,1
+armeabi-v7a,SWDG2909,qcom,SM-G955F,A9000ZCU1BQC1,armeabi,SM-G955F-user 4.4.2 JLS36C 381180523 release-keys,SM-G955F,samsung,null,Dalvik,1
+armeabi-v7a,SWDG2909,qcom,SM-G955F,A9000ZCU1BQC1,armeabi,SM-G955F-user 4.4.2 JLS36C 381180523 release-keys,SM-G955F,samsung,null,Dalvik,1
+armeabi-v7a,DOOV,mt6735,DOOV C70,unknown,armeabi,AY.C70_11_3.05_180326,DOOV C70,DOOV,MRA58K,ART,1
+armeabi-v7a,SWDG2909,qcom,SM-G955F,A9000ZCU1BQC1,armeabi,SM-G955F-user 4.4.2 JLS36C 381180523 release-keys,SM-G955F,samsung,null,Dalvik,1
+armeabi-v7a,wuhjk0361cna,hi3635,HWCRR,unknown,armeabi,CRR-UL00C00B370,CRR-UL00,HUAWEI,HUAWEICRR-UL00,ART,1
+armeabi-v7a,SWDG2909,qcom,SM-G955F,A9000ZCU1BQC1,armeabi,SM-G955F-user 4.4.2 JLS36C 381180523 release-keys,SM-G955F,samsung,null,Dalvik,1
+armeabi-v7a,SWDG2909,qcom,SM-G955F,A9000ZCU1BQC1,armeabi,SM-G955F-user 4.4.2 JLS36C 381180523 release-keys,SM-G955F,samsung,null,Dalvik,1
+armeabi-v7a,SWDG2909,qcom,SM-G955F,A9000ZCU1BQC1,armeabi,SM-G955F-user 4.4.2 JLS36C 381180523 release-keys,SM-G955F,samsung,null,Dalvik,1
+armeabi-v7a,SWDD5916,qcom,jflte,msm8960,armeabi,JDQ39.G3818ZMUAML7,MSM8960,samsung,null,Dalvik,1
+armeabi-v7a,SWDG2909,qcom,SM-G955F,A9000ZCU1BQC1,armeabi,SM-G955F-user 4.4.2 JLS36C 381180523 release-keys,SM-G955F,samsung,null,Dalvik,1
+armeabi-v7a,SWDG2909,qcom,sagit ,aruba3gzc,armeabi,sagit-user 4.4.2 NMF26X 381180523 release-keys,SM-G955F,Xiaomi ,null,Dalvik,1
+armeabi-v7a,DOOV,mt6735,DOOV C70,unknown,armeabi,AY.C70_11_3.05_180326,DOOV C70,DOOV,MRA58K,ART,1
+armeabi-v7a,SWDG2909,qcom,SM-G955F,A9000ZCU1BQC1,armeabi,SM-G955F-user 4.4.2 JLS36C 381180523 release-keys,SM-G955F,samsung,null,Dalvik,1
+armeabi-v7a,SWDG2909,qcom,sagit ,aruba3gzc,armeabi,sagit-user 4.4.2 NMF26X 381180523 release-keys,SM-G955F,Xiaomi ,null,Dalvik,1
+armeabi-v7a,ubuntu,vbox86,vbox86tp,unknown,armeabi,vbox86tp-userdebug,unknown,Genymotion,JDQ39E,Dalvik,1
+armeabi-v7a,DOOV,mt6755,DOOV L9,unknown,armeabi,L9_11_3.15_170301,DOOV L9,DOOV,MRA58K,ART,1
+armeabi-v7a,ubuntu,vbox86,vbox86tp,unknown,armeabi,vbox86tp-userdebug,unknown,Genymotion,JDQ39E,Dalvik,1
+armeabi-v7a,DOOV,mt6755,DOOV L9,unknown,armeabi,L9_11_3.15_170301,DOOV L9,DOOV,MRA58K,ART,1
+armeabi-v7a,c3-miui-ota-bd104.bj,qcom,capricorn,unknown,armeabi,NRD90M,QC_Reference_Phone,Xiaomi,NRD90M,ART,0
+armeabi-v7a,wuhjk0381cna,hi3650,HWKNT,unknown,armeabi,KNT-UL10C00B397,KNT,HUAWEI,HUAWEIKNT-UL10,ART,0
+armeabi-v7a,shajk0108cna,hi6250,HWBND-H,unknown,armeabi,BND-AL10C00B192,BND-AL10,HUAWEI,HONORBND-AL10,ART,0
+armeabi-v7a,compiler031,qcom,PD1709,unknown,armeabi,NMF26X release-keys,sdm660,vivo,NMF26X,ART,0
+armeabi-v7a,COMPILER-6,mt6755,GiONEE_GBL7523,unknown,armeabi,amigo3.1.13,GN3001,GIONEE,LMY47I,ART,0
+armeabi-v7a,ubuntu-121-161,qcom,R11,unknown,armeabi,R11-user 4.4.2 NMF26X 381180418 release-keys,sdm660,OPPO,null,Dalvik,1
+armeabi-v7a,ubuntu-121-161,qcom,R11,unknown,armeabi,R11-user 4.4.2 NMF26X 381180418 release-keys,sdm660,OPPO,null,Dalvik,1
+armeabi-v7a,SWDG2909,qcom,sagit ,aruba3gzc,armeabi,sagit-user 4.4.2 NMF26X 381180523 release-keys,SM-G955F,Xiaomi ,null,Dalvik,1
+armeabi-v7a,ubuntu-121-161,qcom,R11,unknown,armeabi,R11-user 4.4.2 NMF26X 381180418 release-keys,sdm660,OPPO,null,Dalvik,1
+armeabi-v7a,ubuntu-121-161,qcom,R11,unknown,armeabi,R11-user 4.4.2 NMF26X 381180418 release-keys,sdm660,OPPO,null,Dalvik,1
+armeabi-v7a,DOOV,mt6755,DOOV L9,unknown,armeabi,L9_11_3.15_170301,DOOV L9,DOOV,MRA58K,ART,1
+armeabi-v7a,ubuntu-121-161,qcom,R11,unknown,armeabi,R11-user 4.4.2 NMF26X 381180418 release-keys,sdm660,OPPO,null,Dalvik,1
+armeabi-v7a,ubuntu-121-161,qcom,R11,unknown,armeabi,R11-user 4.4.2 NMF26X 381180418 release-keys,sdm660,OPPO,null,Dalvik,1
+armeabi-v7a,android-PC,sofiaboard,sofia3gr_car,1639.400_M1S1,armeabi,sofia3gr_car-userdebug 5.1.1 LMY49F eng.levilin.20180328.164737 test-keys,rk30sdk,Rockchip,LMY49F,ART,1
+armeabi-v7a,ubuntu-121-161,qcom,R11,unknown,armeabi,R11-user 4.4.2 NMF26X 381180418 release-keys,sdm660,OPPO,null,Dalvik,1
+armeabi-v7a,ubuntu-121-161,qcom,R11,unknown,armeabi,R11-user 4.4.2 NMF26X 381180418 release-keys,sdm660,OPPO,null,Dalvik,1
+armeabi-v7a,ubuntu-121-161,qcom,R11,unknown,armeabi,R11-user 4.4.2 NMF26X 381180529 release-keys,sdm660,OPPO,null,Dalvik,1
+armeabi-v7a,ubuntu-121-161,qcom,R11,unknown,armeabi,R11-user 4.4.2 NMF26X 381180529 release-keys,sdm660,OPPO,null,Dalvik,1
+armeabi-v7a,ubuntu-121-161,qcom,R11,unknown,armeabi,R11-user 4.4.2 NMF26X 381180529 release-keys,sdm660,OPPO,null,Dalvik,1
+armeabi-v7a,ubuntu-121-161,qcom,R11,unknown,armeabi,R11-user 4.4.2 NMF26X 381180418 release-keys,sdm660,OPPO,null,Dalvik,1
+armeabi-v7a,android-PC,sofiaboard,sofia3gr_car,1639.400_M1S1,armeabi,sofia3gr_car-userdebug 5.1.1 LMY49F eng.levilin.20180328.164737 test-keys,rk30sdk,Rockchip,LMY49F,ART,1
+armeabi-v7a,WUH1000105879,qcom,natrium,unknown,armeabi,natrium-user 4.4.2 NRD90M 381180529 release-keys,MLA-AL10,Xiaomi ,null,Dalvik,1
+armeabi-v7a,ubuntu-121-161,qcom,R11,unknown,armeabi,R11-user 4.4.2 NMF26X 381180529 release-keys,sdm660,OPPO,null,Dalvik,1
+x86,osboxes,cancro,cancro,U-Boot,armeabi-v7a,cancro-eng 4.4.4 V417IR eng.root.20180315.100043 release-keys,hammerhead,Netease,V417IR,Dalvik,1
+armeabi-v7a,ubuntu-121-161,qcom,R11,unknown,armeabi,R11-user 4.4.2 NMF26X 381180418 release-keys,sdm660,OPPO,null,Dalvik,1
+armeabi-v7a,DOOV,mt6755,DOOV L9,unknown,armeabi,L9_11_3.15_170301,DOOV L9,DOOV,MRA58K,ART,1
+x86,SWDB4706,qcom,cs02ve3g,unknown,armeabi-v7a,cs02ve3gctc-user 4.4.2 JLS36C 3.8.017.0927 release-keys,PRO5,samsung,null,Dalvik,1
+armeabi-v7a,wuhjk0361cna,hi3635,HWCRR,unknown,armeabi,CRR-UL00C00B370,CRR-UL00,HUAWEI,HUAWEICRR-UL00,ART,1
+armeabi-v7a,SWDG2909,qcom,SM-G955F,A9000ZCU1BQC1,armeabi,SM-G955F-user 4.4.2 JLS36C 381180523 release-keys,SM-G955F,samsung,null,Dalvik,1
+armeabi-v7a,SWDG2909,qcom,SM-G955F,A9000ZCU1BQC1,armeabi,SM-G955F-user 4.4.2 JLS36C 381180523 release-keys,SM-G955F,samsung,null,Dalvik,1
+armeabi-v7a,DOOV,mt6755,DOOV L9,unknown,armeabi,L9_11_3.15_170301,DOOV L9,DOOV,MRA58K,ART,1
+armeabi-v7a,wuhjk0361cna,hi3635,HWCRR,unknown,armeabi,CRR-UL00C00B370,CRR-UL00,HUAWEI,HUAWEICRR-UL00,ART,1
+x86,SWDB4706,qcom,cs02ve3g,unknown,armeabi-v7a,cs02ve3gctc-user 4.4.2 JLS36C 3.8.017.0927 release-keys,PRO5,samsung,null,Dalvik,1
+armeabi-v7a,SWDG2909,qcom,SM-G955F,A9000ZCU1BQC1,armeabi,SM-G955F-user 4.4.2 JLS36C 381180523 release-keys,SM-G955F,samsung,null,Dalvik,1
+armeabi-v7a,SWDG2909,qcom,SM-G955F,A9000ZCU1BQC1,armeabi,SM-G955F-user 4.4.2 JLS36C 381180523 release-keys,SM-G955F,samsung,null,Dalvik,1
+armeabi-v7a,SWDG2909,qcom,SM-G955F,A9000ZCU1BQC1,armeabi,SM-G955F-user 4.4.2 JLS36C 381180523 release-keys,SM-G955F,samsung,null,Dalvik,1
+armeabi-v7a,SWDG2909,qcom,SM-G955F,A9000ZCU1BQC1,armeabi,SM-G955F-user 4.4.2 JLS36C 381180523 release-keys,SM-G955F,samsung,null,Dalvik,1
+armeabi-v7a,siajk233cna,hi6250,HNNEM-H,unknown,armeabi,NEM-AL10C00B192,NEM-AL10,HUAWEI,HONORNEM-AL10,ART,1
+armeabi-v7a,siajk233cna,hi6250,HNNEM-H,unknown,armeabi,NEM-AL10C00B192,NEM-AL10,HUAWEI,HONORNEM-AL10,ART,1
+armeabi-v7a,SWDG2909,qcom,sagit ,aruba3gzc,armeabi,sagit-user 4.4.2 NMF26X 381180523 release-keys,SM-G955F,Xiaomi ,null,Dalvik,1
+armeabi-v7a,SWDG2909,qcom,sagit ,aruba3gzc,armeabi,sagit-user 4.4.2 NMF26X 381180523 release-keys,SM-G955F,Xiaomi ,null,Dalvik,1
+armeabi-v7a,SWDG2909,qcom,sagit ,aruba3gzc,armeabi,sagit-user 4.4.2 NMF26X 381180523 release-keys,SM-G955F,Xiaomi ,null,Dalvik,1
+armeabi-v7a,ubuntu-121-161,qcom,HWMLA ,unknown,armeabi,MLA-AL10-user 4.4.2 HUAWEIMLA-AL10 381180224 release-keys,sdm660,HUAWEI ,null,Dalvik,1
+armeabi-v7a,ubuntu,vbox86,vbox86tp,unknown,armeabi,vbox86tp-userdebug,unknown,Genymotion,JDQ39E,Dalvik,1
+armeabi-v7a,siajk233cna,hi6250,HNNEM-H,unknown,armeabi,NEM-AL10C00B192,NEM-AL10,HUAWEI,HONORNEM-AL10,ART,1
+armeabi-v7a,ubuntu,vbox86,vbox86tp,unknown,armeabi,vbox86tp-userdebug,unknown,Genymotion,JDQ39E,Dalvik,1
+armeabi-v7a,wuhjk0361cna,hi3635,HWCRR,unknown,armeabi,CRR-UL00C00B370,CRR-UL00,HUAWEI,HUAWEICRR-UL00,ART,1
+armeabi-v7a,ubuntu-121-102,qcom,R7sm,unknown,armeabi,R7sm_11_160713,msm8916,OPPO,LMY47V,ART,0
+armeabi-v7a,huawei-desktop,qcom,hwG7-UL20,unknown,armeabi,G7-UL20V100R001CHNC00B269,G7-UL20,HUAWEI,HuaweiG7-UL20,Dalvik,0
+armeabi-v7a,compiler026,mt6755,PD1612,unknown,armeabi,MRA58K release-keys,unknown,vivo,MRA58K,ART,0
+armeabi-v7a,SWHD4316,qcom,hlte,N9008VZMSDQD2,armeabi,LRX21V.N9008VZMSDQD2,MSM8974,samsung,LRX21V,ART,0
+armeabi-v7a,compiler026,mt6752,bbk6752_lwt_l,unknown,armeabi,LRX21M release-keys,unknown,vivo,LRX21M,ART,0
+armeabi-v7a,ubuntu-121-161,qcom,R11,unknown,armeabi,R11-user 4.4.2 NMF26X 381180418 release-keys,sdm660,OPPO,null,Dalvik,1
+armeabi-v7a,SWDG2909,qcom,sagit ,aruba3gzc,armeabi,sagit-user 4.4.2 NMF26X 381180523 release-keys,SM-G955F,Xiaomi ,null,Dalvik,1
+armeabi-v7a,SWDG2909,qcom,sagit ,aruba3gzc,armeabi,sagit-user 4.4.2 NMF26X 381180523 release-keys,SM-G955F,Xiaomi ,null,Dalvik,1
+armeabi-v7a,ubuntu-121-161,qcom,R11,unknown,armeabi,R11-user 4.4.2 NMF26X 381180418 release-keys,sdm660,OPPO,null,Dalvik,1
+armeabi-v7a,ubuntu-121-161,qcom,R11,unknown,armeabi,R11-user 4.4.2 NMF26X 381180418 release-keys,sdm660,OPPO,null,Dalvik,1
+armeabi-v7a,ubuntu-121-161,qcom,R11,unknown,armeabi,R11-user 4.4.2 NMF26X 381180418 release-keys,sdm660,OPPO,null,Dalvik,1
+armeabi-v7a,ubuntu-121-161,qcom,R11,unknown,armeabi,R11-user 4.4.2 NMF26X 381180418 release-keys,sdm660,OPPO,null,Dalvik,1
+armeabi-v7a,ubuntu-121-161,qcom,R11,unknown,armeabi,R11-user 4.4.2 NMF26X 381180418 release-keys,sdm660,OPPO,null,Dalvik,1
+x86,osboxes,cancro,cancro,unknown,armeabi-v7a,cancro-eng 4.4.4 V417IR eng.root.20171123.140404 test-keys,hammerhead,Netease,V417IR,Dalvik,1
+armeabi-v7a,ubuntu-121-161,qcom,R11,unknown,armeabi,R11-user 4.4.2 NMF26X 381180418 release-keys,sdm660,OPPO,null,Dalvik,1
+armeabi-v7a,ubuntu-121-161,qcom,R11,unknown,armeabi,R11-user 4.4.2 NMF26X 381180418 release-keys,sdm660,OPPO,null,Dalvik,1
+armeabi-v7a,SWDG2909,samsungexynox8895,sagit ,A7000ZCU1BPE1,armeabi,sagit-user 4.4.2 NMF26X 381180529 release-keys,universal8895,Xiaomi ,null,Dalvik,1
+armeabi-v7a,SWDG2909,samsungexynox8895,sagit ,A7000ZCU1BPE1,armeabi,sagit-user 4.4.2 NMF26X 381180529 release-keys,universal8895,Xiaomi ,null,Dalvik,1
+armeabi-v7a,wuhjk0361cna,hi3635,HWCRR,unknown,armeabi,CRR-UL00C00B370,CRR-UL00,HUAWEI,HUAWEICRR-UL00,ART,1
+armeabi-v7a,Secneo,qcom,sagit ,unknown,armeabi,sagit-user 4.4.2 NMF26X 381180224 release-keys,moorefield,Bangcle,null,Dalvik,1
+armeabi-v7a,android-PC,sofiaboard,sofia3gr_car,1639.400_M1S1,armeabi,sofia3gr_car-userdebug 5.1.1 LMY49F eng.levilin.20180328.164737 test-keys,rk30sdk,Rockchip,LMY49F,ART,1
+armeabi-v7a,huawei-desktop,qcom,HWDIG-L8940,unknown,armeabi,Diego-AL00C00B165,DIG-AL00,HUAWEI,HUAWEIDIG-AL00,ART,1
+armeabi-v7a,siajk233cna,hi6250,HNNEM-H,unknown,armeabi,NEM-AL10C00B192,NEM-AL10,HUAWEI,HONORNEM-AL10,ART,1
+x86,osboxes,cancro,cancro,U-Boot,armeabi-v7a,cancro-eng 4.4.4 V417IR eng.root.20180315.100043 release-keys,hammerhead,Netease,V417IR,Dalvik,1
+armeabi-v7a,ubuntu-121-161,qcom,R11,unknown,armeabi,R11-user 4.4.2 NMF26X 381180418 release-keys,sdm660,OPPO,null,Dalvik,1
+armeabi-v7a,DOOV,mt6755,DOOV L9,unknown,armeabi,L9_11_3.15_170301,DOOV L9,DOOV,MRA58K,ART,1
+x86,SWDB4706,qcom,cs02ve3g,unknown,armeabi-v7a,cs02ve3gctc-user 4.4.2 JLS36C 3.8.017.0927 release-keys,PRO5,samsung,null,Dalvik,1
+armeabi-v7a,DOOV,mt6755,DOOV L9,unknown,armeabi,L9_11_3.15_170301,DOOV L9,DOOV,MRA58K,ART,1
+armeabi-v7a,SWDG2909,qcom,SM-G955F,A9000ZCU1BQC1,armeabi,SM-G955F-user 4.4.2 JLS36C 381180523 release-keys,SM-G955F,samsung,null,Dalvik,1
+x86,osboxes,cancro,cancro,U-Boot,armeabi-v7a,cancro-eng 4.4.4 V417IR eng.root.20180201.174500 release-keys,hammerhead,Netease,V417IR,Dalvik,1
+armeabi-v7a,siajk233cna,hi6250,HNNEM-H,unknown,armeabi,NEM-AL10C00B192,NEM-AL10,HUAWEI,HONORNEM-AL10,ART,1
+armeabi-v7a,DOOV,mt6755,DOOV L9,unknown,armeabi,L9_11_3.15_170301,DOOV L9,DOOV,MRA58K,ART,1
+armeabi-v7a,SWDG2909,qcom,SM-G955F,A9000ZCU1BQC1,armeabi,SM-G955F-user 4.4.2 JLS36C 381180523 release-keys,SM-G955F,samsung,null,Dalvik,1
+armeabi-v7a,huawei-desktop,qcom,HWDIG-L8940,unknown,armeabi,Diego-AL00C00B165,DIG-AL00,HUAWEI,HUAWEIDIG-AL00,ART,1
+armeabi-v7a,SWDG2909,qcom,SM-G955F,A9000ZCU1BQC1,armeabi,SM-G955F-user 4.4.2 JLS36C 381180523 release-keys,SM-G955F,samsung,null,Dalvik,1
+armeabi-v7a,SWDG2909,qcom,SM-G955F,A9000ZCU1BQC1,armeabi,SM-G955F-user 4.4.2 JLS36C 381180523 release-keys,SM-G955F,samsung,null,Dalvik,1
+armeabi-v7a,SWDG2909,qcom,SM-G955F,A9000ZCU1BQC1,armeabi,SM-G955F-user 4.4.2 JLS36C 381180523 release-keys,SM-G955F,samsung,null,Dalvik,1
+armeabi-v7a,SWDG2909,qcom,SM-G955F,A9000ZCU1BQC1,armeabi,SM-G955F-user 4.4.2 JLS36C 381180523 release-keys,SM-G955F,samsung,null,Dalvik,1
+armeabi-v7a,wuhjk0361cna,hi3635,HWCRR,unknown,armeabi,CRR-UL00C00B370,CRR-UL00,HUAWEI,HUAWEICRR-UL00,ART,1
+armeabi-v7a,SWDG2909,qcom,sagit ,aruba3gzc,armeabi,sagit-user 4.4.2 NMF26X 381180523 release-keys,SM-G955F,Xiaomi ,null,Dalvik,1
+armeabi-v7a,SWDG2909,qcom,sagit ,aruba3gzc,armeabi,sagit-user 4.4.2 NMF26X 381180523 release-keys,SM-G955F,Xiaomi ,null,Dalvik,1
+armeabi-v7a,SWDG2909,qcom,sagit ,aruba3gzc,armeabi,sagit-user 4.4.2 NMF26X 381180523 release-keys,SM-G955F,Xiaomi ,null,Dalvik,1
+armeabi-v7a,DOOV,mt6755,DOOV L9,unknown,armeabi,L9_11_3.15_170301,DOOV L9,DOOV,MRA58K,ART,1
+armeabi-v7a,huawei-desktop,qcom,HWDIG-L8940,unknown,armeabi,Diego-AL00C00B165,DIG-AL00,HUAWEI,HUAWEIDIG-AL00,ART,1
+armeabi-v7a,xmws72,qcom,sisleylt,unknown,armeabi,sisleylt-user 4.4.2 KTU84P 3.8.017.0927 release-keys,GRA-TL00,LENOVO,null,Dalvik,1
+armeabi-v7a,ubuntu,vbox86,vbox86tp,unknown,armeabi,vbox86tp-userdebug,unknown,Genymotion,JDQ39E,Dalvik,1
+armeabi-v7a,siajk233cna,hi6250,HNNEM-H,unknown,armeabi,NEM-AL10C00B192,NEM-AL10,HUAWEI,HONORNEM-AL10,ART,1
+armeabi-v7a,wuhjk0381cna,hi3650,HWVIE,unknown,armeabi,VIE-AL10C00B399SP01,VIE-AL10,HUAWEI,HUAWEIVIE-AL10,ART,0
+armeabi-v7a,huawei-desktop,hi3635,HWPLK,unknown,armeabi,PLK-AL10C00B389,PLK-AL10,HUAWEI,HONORPLK-AL10,ART,0
+armeabi-v7a,compiler026,mt6755,PD1612,unknown,armeabi,MRA58K release-keys,unknown,vivo,MRA58K,ART,0
+armeabi-v7a,wuhjk0381cna,hi3650,HWFRD,unknown,armeabi,FRD-AL10C00B396,FRD,HUAWEI,HUAWEIFRD-AL10,ART,0
+armeabi-v7a,SWHE2623,qcom,fortunalte,G5308WZMU1AQA2,armeabi,KTU84P.G5308WZMU1AQA2,MSM8916,samsung,KTU84P,Dalvik,0
+armeabi-v7a,SWDG2909,qcom,sagit ,aruba3gzc,armeabi,sagit-user 4.4.2 NMF26X 381180523 release-keys,SM-G955F,Xiaomi ,null,Dalvik,1
+armeabi-v7a,SWDG2909,qcom,sagit ,aruba3gzc,armeabi,sagit-user 4.4.2 NMF26X 381180523 release-keys,SM-G955F,Xiaomi ,null,Dalvik,1
+armeabi-v7a,SWDG2909,qcom,sagit ,aruba3gzc,armeabi,sagit-user 4.4.2 NMF26X 381180523 release-keys,SM-G955F,Xiaomi ,null,Dalvik,1
+armeabi-v7a,ubuntu-121-161,qcom,R11,unknown,armeabi,R11-user 4.4.2 NMF26X 381180418 release-keys,sdm660,OPPO,null,Dalvik,1
+armeabi-v7a,ubuntu-121-161,qcom,R11,unknown,armeabi,R11-user 4.4.2 NMF26X 381180418 release-keys,sdm660,OPPO,null,Dalvik,1
+armeabi-v7a,ubuntu-121-161,qcom,R11,unknown,armeabi,R11-user 4.4.2 NMF26X 381180418 release-keys,sdm660,OPPO,null,Dalvik,1
+armeabi-v7a,ubuntu-121-161,qcom,R11,unknown,armeabi,R11-user 4.4.2 NMF26X 381180418 release-keys,sdm660,OPPO,null,Dalvik,1
+armeabi-v7a,ubuntu-121-161,qcom,R11,unknown,armeabi,R11-user 4.4.2 NMF26X 381180418 release-keys,sdm660,OPPO,null,Dalvik,1
+armeabi-v7a,android-PC,sofiaboard,sofia3gr_car,1639.400_M1S1,armeabi,sofia3gr_car-userdebug 5.1.1 LMY49F eng.levilin.20180328.164737 test-keys,rk30sdk,Rockchip,LMY49F,ART,1
+armeabi-v7a,ubuntu,mt6589,R823T,unknown,armeabi,HUAWEI,GRA-TL00,OPPO,null,Dalvik,1
+armeabi-v7a,ubuntu-121-161,qcom,R11,unknown,armeabi,R11-user 4.4.2 NMF26X 381180418 release-keys,sdm660,OPPO,null,Dalvik,1
+armeabi-v7a,SWDG2909,qcom,PD1709,unknown,armeabi,PD1709-user 4.4.2 NMF26X 381180529 release-keys,SM-G955F,vivo,null,Dalvik,1
+armeabi-v7a,SWDG2909,qcom,PD1709,unknown,armeabi,PD1709-user 4.4.2 NMF26X 381180529 release-keys,SM-G955F,vivo,null,Dalvik,1
+armeabi-v7a,siajk233cna,hi6250,HNNEM-H,unknown,armeabi,NEM-AL10C00B192,NEM-AL10,HUAWEI,HONORNEM-AL10,ART,1
+armeabi-v7a,ubuntu-121-161,qcom,R11,unknown,armeabi,R11-user 4.4.2 NMF26X 381180418 release-keys,sdm660,OPPO,null,Dalvik,1
+armeabi-v7a,android-PC,sofiaboard,sofia3gr_car,1639.400_M1S1,armeabi,sofia3gr_car-userdebug 5.1.1 LMY49F eng.levilin.20180328.164737 test-keys,rk30sdk,Rockchip,LMY49F,ART,1
+armeabi-v7a,huawei-desktop,qcom,HWDIG-L8940,unknown,armeabi,Diego-AL00C00B165,DIG-AL00,HUAWEI,HUAWEIDIG-AL00,ART,1
+armeabi-v7a,SWDG2909,qcom,sagit ,aruba3gzc,armeabi,sagit-user 4.4.2 NMF26X 381180523 release-keys,SM-G955F,Xiaomi ,null,Dalvik,1
+armeabi-v7a,wuhjk0361cna,hi3635,HWCRR,unknown,armeabi,CRR-UL00C00B370,CRR-UL00,HUAWEI,HUAWEICRR-UL00,ART,1
+armeabi-v7a,ubuntu-121-161,qcom,R11,unknown,armeabi,R11-user 4.4.2 NMF26X 381180418 release-keys,sdm660,OPPO,null,Dalvik,1
+armeabi-v7a,wuhjk0361cna,hi3635,HWCRR,unknown,armeabi,CRR-UL00C00B370,CRR-UL00,HUAWEI,HUAWEICRR-UL00,ART,1
+x86,SWDB4706,qcom,cs02ve3g,unknown,armeabi-v7a,cs02ve3gctc-user 4.4.2 JLS36C 3.8.017.0927 release-keys,PRO5,samsung,null,Dalvik,1
+armeabi-v7a,siajk233cna,hi6250,HNNEM-H,unknown,armeabi,NEM-AL10C00B192,NEM-AL10,HUAWEI,HONORNEM-AL10,ART,1
+armeabi-v7a,SWDG2909,qcom,SM-G955F,A9000ZCU1BQC1,armeabi,SM-G955F-user 4.4.2 JLS36C 381180523 release-keys,SM-G955F,samsung,null,Dalvik,1
+armeabi-v7a,SWDG2909,qcom,SM-G955F,A9000ZCU1BQC1,armeabi,SM-G955F-user 4.4.2 JLS36C 381180523 release-keys,SM-G955F,samsung,null,Dalvik,1
+armeabi-v7a,wuhjk0361cna,hi3635,HWCRR,unknown,armeabi,CRR-UL00C00B370,CRR-UL00,HUAWEI,HUAWEICRR-UL00,ART,1
+armeabi-v7a,siajk233cna,hi6250,HNNEM-H,unknown,armeabi,NEM-AL10C00B192,NEM-AL10,HUAWEI,HONORNEM-AL10,ART,1
+armeabi-v7a,siajk233cna,hi6250,HNNEM-H,unknown,armeabi,NEM-AL10C00B192,NEM-AL10,HUAWEI,HONORNEM-AL10,ART,1
+armeabi-v7a,SWDG2909,qcom,SM-G955F,A9000ZCU1BQC1,armeabi,SM-G955F-user 4.4.2 JLS36C 381180523 release-keys,SM-G955F,samsung,null,Dalvik,1
+armeabi-v7a,SWDG2909,qcom,sagit ,aruba3gzc,armeabi,sagit-user 4.4.2 NMF26X 381180523 release-keys,SM-G955F,Xiaomi ,null,Dalvik,1
+armeabi-v7a,SWDG2909,qcom,SM-G955F,A9000ZCU1BQC1,armeabi,SM-G955F-user 4.4.2 JLS36C 381180523 release-keys,SM-G955F,samsung,null,Dalvik,1
+armeabi-v7a,wuhjk0361cna,hi3635,HWCRR,unknown,armeabi,CRR-UL00C00B370,CRR-UL00,HUAWEI,HUAWEICRR-UL00,ART,1
+armeabi-v7a,SWDG2909,qcom,sagit ,aruba3gzc,armeabi,sagit-user 4.4.2 NMF26X 381180523 release-keys,SM-G955F,Xiaomi ,null,Dalvik,1
+armeabi-v7a,siajk233cna,hi6250,HNNEM-H,unknown,armeabi,NEM-AL10C00B192,NEM-AL10,HUAWEI,HONORNEM-AL10,ART,1
+armeabi-v7a,SWDG2909,qcom,sagit ,aruba3gzc,armeabi,sagit-user 4.4.2 NMF26X 381180523 release-keys,SM-G955F,Xiaomi ,null,Dalvik,1
+armeabi-v7a,siajk233cna,hi6250,HNNEM-H,unknown,armeabi,NEM-AL10C00B192,NEM-AL10,HUAWEI,HONORNEM-AL10,ART,1
+armeabi-v7a,wuhjk0361cna,hi3635,HWCRR,unknown,armeabi,CRR-UL00C00B370,CRR-UL00,HUAWEI,HUAWEICRR-UL00,ART,1
+armeabi-v7a,SWDG2909,qcom,sagit ,aruba3gzc,armeabi,sagit-user 4.4.2 NMF26X 381180523 release-keys,SM-G955F,Xiaomi ,null,Dalvik,1
+armeabi-v7a,DOOV,mt6755,DOOV L9,unknown,armeabi,L9_11_3.15_170301,DOOV L9,DOOV,MRA58K,ART,1
+armeabi-v7a,xmws72,qcom,sisleylt,unknown,armeabi,sisleylt-user 4.4.2 KTU84P 3.8.017.0927 release-keys,GRA-TL00,LENOVO,null,Dalvik,1
+armeabi-v7a,ubuntu,vbox86,vbox86tp,unknown,armeabi,vbox86tp-userdebug,unknown,Genymotion,JDQ39E,Dalvik,1
+armeabi-v7a,wuhjk0361cna,hi3635,HWCRR,unknown,armeabi,CRR-UL00C00B370,CRR-UL00,HUAWEI,HUAWEICRR-UL00,ART,1
+armeabi-v7a,scmbuild,mt6735,HWCUN-L6735,unknown,armeabi,CUN-AL00C00B135,CUN-AL00,HUAWEI,HUAWEICUN-AL00,ART,0
+armeabi-v7a,ubuntu-121-102,qcom,A33,unknown,armeabi,A33_11_A.11_160729,msm8916,OPPO,LMY47V,ART,0
+armeabi-v7a,shajk0110cna,hi6250,HWBAC,unknown,armeabi,BAC-AL00C00B200,BAC,HUAWEI,HUAWEIBAC-AL00,ART,0
+armeabi-v7a,localhost,qcom,hwRIO-AL00,unknown,armeabi,RIO-AL00C00B392,RIO-AL00,HUAWEI,HuaweiRIO-AL00,ART,0
+armeabi-v7a,compiler02301,qcom,PD1510,unknown,armeabi,LMY47V release-keys,msm8916,vivo,LMY47V,ART,0
+armeabi-v7a,SWDG2909,qcom,sagit ,aruba3gzc,armeabi,sagit-user 4.4.2 NMF26X 381180523 release-keys,SM-G955F,Xiaomi ,null,Dalvik,1
+armeabi-v7a,ubuntu-121-161,qcom,R11,unknown,armeabi,R11-user 4.4.2 NMF26X 381180418 release-keys,sdm660,OPPO,null,Dalvik,1
+armeabi-v7a,SWDG2909,qcom,sagit ,aruba3gzc,armeabi,sagit-user 4.4.2 NMF26X 381180523 release-keys,SM-G955F,Xiaomi ,null,Dalvik,1
+armeabi-v7a,ubuntu-121-161,qcom,R11,unknown,armeabi,R11-user 4.4.2 NMF26X 381180418 release-keys,sdm660,OPPO,null,Dalvik,1
+armeabi-v7a,ubuntu-121-161,qcom,R11,unknown,armeabi,R11-user 4.4.2 NMF26X 381180418 release-keys,sdm660,OPPO,null,Dalvik,1
+armeabi-v7a,ubuntu-121-161,qcom,R11,unknown,armeabi,R11-user 4.4.2 NMF26X 381180418 release-keys,sdm660,OPPO,null,Dalvik,1
+armeabi-v7a,ubuntu-121-161,qcom,R11,unknown,armeabi,R11-user 4.4.2 NMF26X 381180418 release-keys,sdm660,OPPO,null,Dalvik,1
+armeabi-v7a,SWDD5916,qcom,jflte,msm8960,armeabi,JDQ39.G3818ZMUAML7,MSM8960,samsung,null,Dalvik,1
+armeabi-v7a,DOOV,mt6755,DOOV L9,unknown,armeabi,L9_11_3.15_170301,DOOV L9,DOOV,MRA58K,ART,1
+armeabi-v7a,ubuntu-121-161,qcom,R11,unknown,armeabi,R11-user 4.4.2 NMF26X 381180418 release-keys,sdm660,OPPO,null,Dalvik,1
+armeabi-v7a,ubuntu-121-161,qcom,R11,unknown,armeabi,R11-user 4.4.2 NMF26X 381180418 release-keys,sdm660,OPPO,null,Dalvik,1
+armeabi-v7a,WUH1000105879,qcom,PD1624,unknown,armeabi,PD1624-user 4.4.2 NMF26F 381180529 release-keys,MLA-AL10,vivo,null,Dalvik,1
+armeabi-v7a,WUH1000105879,qcom,PD1624,unknown,armeabi,PD1624-user 4.4.2 NMF26F 381180529 release-keys,MLA-AL10,vivo,null,Dalvik,1
+armeabi-v7a,ubuntu-121-161,qcom,R11,unknown,armeabi,R11-user 4.4.2 NMF26X 381180529 release-keys,sdm660,OPPO,null,Dalvik,1
+armeabi-v7a,ubuntu-121-161,qcom,R11,unknown,armeabi,R11-user 4.4.2 NMF26X 381180529 release-keys,sdm660,OPPO,null,Dalvik,1
+armeabi-v7a,android-PC,sofiaboard,sofia3gr_car,1639.400_M1S1,armeabi,sofia3gr_car-userdebug 5.1.1 LMY49F eng.levilin.20180328.164737 test-keys,rk30sdk,Rockchip,LMY49F,ART,1
+armeabi-v7a,siajk233cna,hi6250,HNNEM-H,unknown,armeabi,NEM-AL10C00B192,NEM-AL10,HUAWEI,HONORNEM-AL10,ART,1
+armeabi-v7a,SWDG2909,qcom,sagit ,aruba3gzc,armeabi,sagit-user 4.4.2 NMF26X 381180523 release-keys,SM-G955F,Xiaomi ,null,Dalvik,1
+armeabi-v7a,wuhjk0361cna,hi3635,HWCRR,unknown,armeabi,CRR-UL00C00B370,CRR-UL00,HUAWEI,HUAWEICRR-UL00,ART,1
+armeabi-v7a,ubuntu-121-161,qcom,R11,unknown,armeabi,R11-user 4.4.2 NMF26X 381180418 release-keys,sdm660,OPPO,null,Dalvik,1
+armeabi-v7a,wuhjk0361cna,hi3635,HWCRR,unknown,armeabi,CRR-UL00C00B370,CRR-UL00,HUAWEI,HUAWEICRR-UL00,ART,1
+x86,SWDB4706,qcom,cs02ve3g,unknown,armeabi-v7a,cs02ve3gctc-user 4.4.2 JLS36C 3.8.017.0927 release-keys,PRO5,samsung,null,Dalvik,1
+armeabi-v7a,SWDG2909,qcom,sagit ,aruba3gzc,armeabi,sagit-user 4.4.2 NMF26X 381180523 release-keys,SM-G955F,Xiaomi ,null,Dalvik,1
+armeabi-v7a,SWDG2909,qcom,SM-G955F,A9000ZCU1BQC1,armeabi,SM-G955F-user 4.4.2 JLS36C 381180523 release-keys,SM-G955F,samsung,null,Dalvik,1
+armeabi-v7a,SWDG2909,qcom,SM-G955F,A9000ZCU1BQC1,armeabi,SM-G955F-user 4.4.2 JLS36C 381180523 release-keys,SM-G955F,samsung,null,Dalvik,1
+armeabi-v7a,DOOV,mt6735,DOOV C70,unknown,armeabi,AY.C70_11_3.05_180326,DOOV C70,DOOV,MRA58K,ART,1
+armeabi-v7a,DOOV,mt6755,DOOV L9,unknown,armeabi,L9_11_3.15_170301,DOOV L9,DOOV,MRA58K,ART,1
+armeabi-v7a,SWDG2909,qcom,SM-G955F,A9000ZCU1BQC1,armeabi,SM-G955F-user 4.4.2 JLS36C 381180523 release-keys,SM-G955F,samsung,null,Dalvik,1
+armeabi-v7a,ubuntu-121-161,qcom,R11,unknown,armeabi,R11-user 4.4.2 NMF26X 381180418 release-keys,sdm660,OPPO,null,Dalvik,1
+armeabi-v7a,DOOV,mt6735,DOOV C70,unknown,armeabi,AY.C70_11_3.05_180326,DOOV C70,DOOV,MRA58K,ART,1
+armeabi-v7a,SWDG2909,qcom,sagit ,aruba3gzc,armeabi,sagit-user 4.4.2 NMF26X 381180523 release-keys,SM-G955F,Xiaomi ,null,Dalvik,1
+armeabi-v7a,siajk233cna,hi6250,HNNEM-H,unknown,armeabi,NEM-AL10C00B192,NEM-AL10,HUAWEI,HONORNEM-AL10,ART,1
+armeabi-v7a,SWDG2909,qcom,SM-G955F,A9000ZCU1BQC1,armeabi,SM-G955F-user 4.4.2 JLS36C 381180523 release-keys,SM-G955F,samsung,null,Dalvik,1
+armeabi-v7a,siajk233cna,hi6250,HNNEM-H,unknown,armeabi,NEM-AL10C00B192,NEM-AL10,HUAWEI,HONORNEM-AL10,ART,1
+armeabi-v7a,SWDG2909,qcom,sagit ,aruba3gzc,armeabi,sagit-user 4.4.2 NMF26X 381180523 release-keys,SM-G955F,Xiaomi ,null,Dalvik,1
+armeabi-v7a,SWDG2909,qcom,sagit ,aruba3gzc,armeabi,sagit-user 4.4.2 NMF26X 381180523 release-keys,SM-G955F,Xiaomi ,null,Dalvik,1
+armeabi-v7a,SWDG2909,qcom,SM-G955F,A9000ZCU1BQC1,armeabi,SM-G955F-user 4.4.2 JLS36C 381180523 release-keys,SM-G955F,samsung,null,Dalvik,1
+armeabi-v7a,DOOV,mt6755,DOOV L9,unknown,armeabi,L9_11_3.15_170301,DOOV L9,DOOV,MRA58K,ART,1
+armeabi-v7a,ubuntu,vbox86,vbox86tp,unknown,armeabi,vbox86tp-userdebug,unknown,Genymotion,JDQ39E,Dalvik,1
+armeabi-v7a,xmws72,qcom,sisleylt,unknown,armeabi,sisleylt-user 4.4.2 KTU84P 3.8.017.0927 release-keys,GRA-TL00,LENOVO,null,Dalvik,1
+armeabi-v7a,ubuntu-121-161,qcom,HWMLA ,unknown,armeabi,MLA-AL10-user 4.4.2 HUAWEIMLA-AL10 381180224 release-keys,sdm660,HUAWEI ,null,Dalvik,1
+armeabi-v7a,DOOV,mt6755,DOOV L9,unknown,armeabi,L9_11_3.15_170301,DOOV L9,DOOV,MRA58K,ART,1
+armeabi-v7a,SIA1000116872,hi3660,HWMHA,unknown,armeabi,MHA-AL00 8.0.0.354(C00),MHA,HUAWEI,HUAWEIMHA-AL00,ART,0
+armeabi-v7a,SWHE7705,qcom,hero2qltechn,G9350ZHU2BRD1,armeabi,NRD90M.G9350ZHU2BRD1,msm8996,samsung,NRD90M,ART,0
+armeabi-v7a,compiler026,mt6755,PD1612,unknown,armeabi,MRA58K release-keys,unknown,vivo,MRA58K,ART,0
+armeabi-v7a,shzdcpci11,Kirin925,hwmt7,unknown,armeabi,MT7-CL00V100R001C92B135,MT7-CL00,HUAWEI,HuaweiMT7-CL00,Dalvik,0
+armeabi-v7a,cmsmb02,mt6797,le_x6,unknown,armeabi,HEXCNFN5902812161S,unknown,LeMobile,HEXCNFN5902812161S,ART,0
+armeabi-v7a,SWDG2909,qcom,sagit ,aruba3gzc,armeabi,sagit-user 4.4.2 NMF26X 381180523 release-keys,SM-G955F,Xiaomi ,null,Dalvik,1
+armeabi-v7a,SWDG2909,qcom,sagit ,aruba3gzc,armeabi,sagit-user 4.4.2 NMF26X 381180523 release-keys,SM-G955F,Xiaomi ,null,Dalvik,1
+armeabi-v7a,SWDG2909,qcom,sagit ,aruba3gzc,armeabi,sagit-user 4.4.2 NMF26X 381180523 release-keys,SM-G955F,Xiaomi ,null,Dalvik,1
+armeabi-v7a,ubuntu-121-161,qcom,R11,unknown,armeabi,R11-user 4.4.2 NMF26X 381180418 release-keys,sdm660,OPPO,null,Dalvik,1
+armeabi-v7a,ubuntu-121-161,qcom,R11,unknown,armeabi,R11-user 4.4.2 NMF26X 381180418 release-keys,sdm660,OPPO,null,Dalvik,1
+armeabi-v7a,ubuntu-121-161,qcom,R11,unknown,armeabi,R11-user 4.4.2 NMF26X 381180418 release-keys,sdm660,OPPO,null,Dalvik,1
+armeabi-v7a,ubuntu-121-161,qcom,R11,unknown,armeabi,R11-user 4.4.2 NMF26X 381180418 release-keys,sdm660,OPPO,null,Dalvik,1
+armeabi-v7a,ubuntu-121-161,qcom,R11,unknown,armeabi,R11-user 4.4.2 NMF26X 381180418 release-keys,sdm660,OPPO,null,Dalvik,1
+armeabi-v7a,android-PC,sofiaboard,sofia3gr_car,1639.400_M1S1,armeabi,sofia3gr_car-userdebug 5.1.1 LMY49F eng.levilin.20180328.164737 test-keys,rk30sdk,Rockchip,LMY49F,ART,1
+armeabi-v7a,ubuntu-121-161,qcom,R11,unknown,armeabi,R11-user 4.4.2 NMF26X 381180418 release-keys,sdm660,OPPO,null,Dalvik,1
+armeabi-v7a,ubuntu-121-161,qcom,R11,unknown,armeabi,R11-user 4.4.2 NMF26X 381180418 release-keys,sdm660,OPPO,null,Dalvik,1
+armeabi-v7a,wuhjk0361cna,hi3635,HWCRR,unknown,armeabi,CRR-UL00C00B370,CRR-UL00,HUAWEI,HUAWEICRR-UL00,ART,1
+armeabi-v7a,WUH1000105879,qcom,HWMLA ,unknown,armeabi,MLA-AL10-user 4.4.2 HUAWEIMLA-AL10 381180529 release-keys,MLA-AL10,HUAWEI ,null,Dalvik,1
+armeabi-v7a,ubuntu-121-161,qcom,R11,unknown,armeabi,R11-user 4.4.2 NMF26X 381180418 release-keys,sdm660,OPPO,null,Dalvik,1
+armeabi-v7a,WUH1000105879,qcom,natrium,unknown,armeabi,natrium-user 4.4.2 NRD90M 381180529 release-keys,MLA-AL10,Xiaomi ,null,Dalvik,1
+armeabi-v7a,android-PC,sofiaboard,sofia3gr_car,1639.400_M1S1,armeabi,sofia3gr_car-userdebug 5.1.1 LMY49F eng.levilin.20180328.164737 test-keys,rk30sdk,Rockchip,LMY49F,ART,1
+armeabi-v7a,DOOV,mt6755,DOOV L9,unknown,armeabi,L9_11_3.15_170301,DOOV L9,DOOV,MRA58K,ART,1
+armeabi-v7a,SWDG2909,qcom,SM-G955F,unknown,armeabi,SM-G955F-user 4.4.2 JLS36C 381180529 release-keys,SM-G955F,samsung,null,Dalvik,1
+armeabi-v7a,DOOV,mt6755,DOOV L9,unknown,armeabi,L9_11_3.15_170301,DOOV L9,DOOV,MRA58K,ART,1
+armeabi-v7a,ubuntu-121-161,qcom,R11,unknown,armeabi,R11-user 4.4.2 NMF26X 381180418 release-keys,sdm660,OPPO,null,Dalvik,1
+armeabi-v7a,DOOV,mt6755,DOOV L9,unknown,armeabi,L9_11_3.15_170301,DOOV L9,DOOV,MRA58K,ART,1
+armeabi-v7a,wuhjk0361cna,hi3635,HWCRR,unknown,armeabi,CRR-UL00C00B370,CRR-UL00,HUAWEI,HUAWEICRR-UL00,ART,1
+x86,SWDB4706,qcom,cs02ve3g,unknown,armeabi-v7a,cs02ve3gctc-user 4.4.2 JLS36C 3.8.017.0927 release-keys,PRO5,samsung,null,Dalvik,1
+armeabi-v7a,SWDG2909,qcom,SM-G955F,A9000ZCU1BQC1,armeabi,SM-G955F-user 4.4.2 JLS36C 381180523 release-keys,SM-G955F,samsung,null,Dalvik,1
+armeabi-v7a,SWDG2909,qcom,SM-G955F,A9000ZCU1BQC1,armeabi,SM-G955F-user 4.4.2 JLS36C 381180523 release-keys,SM-G955F,samsung,null,Dalvik,1
+armeabi-v7a,DOOV,mt6735,DOOV C70,unknown,armeabi,AY.C70_11_3.05_180326,DOOV C70,DOOV,MRA58K,ART,1
+armeabi-v7a,siajk233cna,hi6250,HNNEM-H,unknown,armeabi,NEM-AL10C00B192,NEM-AL10,HUAWEI,HONORNEM-AL10,ART,1
+armeabi-v7a,SWDG2909,qcom,SM-G955F,A9000ZCU1BQC1,armeabi,SM-G955F-user 4.4.2 JLS36C 381180523 release-keys,SM-G955F,samsung,null,Dalvik,1
+armeabi-v7a,SWDG2909,qcom,SM-G955F,A9000ZCU1BQC1,armeabi,SM-G955F-user 4.4.2 JLS36C 381180523 release-keys,SM-G955F,samsung,null,Dalvik,1
+armeabi-v7a,DOOV,mt6735,DOOV C70,unknown,armeabi,AY.C70_11_3.05_180326,DOOV C70,DOOV,MRA58K,ART,1
+armeabi-v7a,ubuntu-121-161,qcom,R11,unknown,armeabi,R11-user 4.4.2 NMF26X 381180418 release-keys,sdm660,OPPO,null,Dalvik,1
+armeabi-v7a,huawei-desktop,qcom,HWDIG-L8940,unknown,armeabi,Diego-AL00C00B165,DIG-AL00,HUAWEI,HUAWEIDIG-AL00,ART,1
+armeabi-v7a,SWDG2909,qcom,SM-G955F,A9000ZCU1BQC1,armeabi,SM-G955F-user 4.4.2 JLS36C 381180523 release-keys,SM-G955F,samsung,null,Dalvik,1
+armeabi-v7a,siajk233cna,hi6250,HNNEM-H,unknown,armeabi,NEM-AL10C00B192,NEM-AL10,HUAWEI,HONORNEM-AL10,ART,1
+armeabi-v7a,SWDG2909,qcom,sagit ,aruba3gzc,armeabi,sagit-user 4.4.2 NMF26X 381180523 release-keys,SM-G955F,Xiaomi ,null,Dalvik,1
+armeabi-v7a,SWDG2909,qcom,sagit ,aruba3gzc,armeabi,sagit-user 4.4.2 NMF26X 381180523 release-keys,SM-G955F,Xiaomi ,null,Dalvik,1
+armeabi-v7a,SWDG2909,qcom,sagit ,aruba3gzc,armeabi,sagit-user 4.4.2 NMF26X 381180523 release-keys,SM-G955F,Xiaomi ,null,Dalvik,1
+armeabi-v7a,SWDG2909,qcom,sagit ,aruba3gzc,armeabi,sagit-user 4.4.2 NMF26X 381180523 release-keys,SM-G955F,Xiaomi ,null,Dalvik,1
+armeabi-v7a,ubuntu,vbox86,vbox86tp,unknown,armeabi,vbox86tp-userdebug,unknown,Genymotion,JDQ39E,Dalvik,1
+armeabi-v7a,xmws72,qcom,sisleylt,unknown,armeabi,sisleylt-user 4.4.2 KTU84P 3.8.017.0927 release-keys,GRA-TL00,LENOVO,null,Dalvik,1
+armeabi-v7a,ubuntu-121-161,qcom,HWMLA ,unknown,armeabi,MLA-AL10-user 4.4.2 HUAWEIMLA-AL10 381180224 release-keys,sdm660,HUAWEI ,null,Dalvik,1
+armeabi-v7a,siajk233cna,hi6250,HNNEM-H,unknown,armeabi,NEM-AL10C00B192,NEM-AL10,HUAWEI,HONORNEM-AL10,ART,1
+armeabi-v7a,SIA1000065384,hi6250,HWBLN-H,unknown,armeabi,BLN-TL10C01B375,hi6250,HUAWEI,HONORBLN-TL10,ART,0
+armeabi-v7a,SWHD4316,qcom,hlte,N9008VZMSDQD2,armeabi,LRX21V.N9008VZMSDQD2,MSM8974,samsung,LRX21V,ART,0
+armeabi-v7a,ubuntu-121-206,mt6755,A37,unknown,armeabi,A37m_11_A.26_180509,full_oppo6750_15127,OPPO,LMY47I,ART,0
+armeabi-v7a,ubuntu-121-160,qcom,R11Plus,unknown,armeabi,R11Plus_11_A.30_171001,sdm660,OPPO,NMF26X,ART,0
+armeabi-v7a,SWDG5223,qcom,a8ltechn,A8000ZCU2BQE1,armeabi,MMB29M.A8000ZCU2BQE1,MSM8939,samsung,MMB29M,ART,0
+armeabi-v7a,SWDG2909,qcom,sagit ,aruba3gzc,armeabi,sagit-user 4.4.2 NMF26X 381180523 release-keys,SM-G955F,Xiaomi ,null,Dalvik,1
+armeabi-v7a,ubuntu-121-161,qcom,R11,unknown,armeabi,R11-user 4.4.2 NMF26X 381180418 release-keys,sdm660,OPPO,null,Dalvik,1
+armeabi-v7a,SWDG2909,qcom,sagit ,aruba3gzc,armeabi,sagit-user 4.4.2 NMF26X 381180523 release-keys,SM-G955F,Xiaomi ,null,Dalvik,1
+armeabi-v7a,siajk233cna,hi6250,HNNEM-H,unknown,armeabi,NEM-AL10C00B192,NEM-AL10,HUAWEI,HONORNEM-AL10,ART,1
+armeabi-v7a,DOOV,mt6755,DOOV L9,unknown,armeabi,L9_11_3.15_170301,DOOV L9,DOOV,MRA58K,ART,1
+armeabi-v7a,ubuntu-121-161,qcom,R11,unknown,armeabi,R11-user 4.4.2 NMF26X 381180418 release-keys,sdm660,OPPO,null,Dalvik,1
+armeabi-v7a,ubuntu-121-161,qcom,R11,unknown,armeabi,R11-user 4.4.2 NMF26X 381180418 release-keys,sdm660,OPPO,null,Dalvik,1
+armeabi-v7a,ubuntu-121-161,qcom,R11,unknown,armeabi,R11-user 4.4.2 NMF26X 381180418 release-keys,sdm660,OPPO,null,Dalvik,1
+armeabi-v7a,ubuntu-121-161,qcom,R11,unknown,armeabi,R11-user 4.4.2 NMF26X 381180418 release-keys,sdm660,OPPO,null,Dalvik,1
+armeabi-v7a,ubuntu,mt6589,R823T,unknown,armeabi,HUAWEI,GRA-TL00,OPPO,null,Dalvik,1
+armeabi-v7a,ubuntu-121-161,qcom,R11,unknown,armeabi,R11-user 4.4.2 NMF26X 381180418 release-keys,sdm660,OPPO,null,Dalvik,1
+armeabi-v7a,SWDG2909,qcom,PD1709,unknown,armeabi,PD1709-user 4.4.2 NMF26X 381180529 release-keys,SM-G955F,vivo,null,Dalvik,1
+armeabi-v7a,WUH1000105879,qcom,HWMLA ,unknown,armeabi,MLA-AL10-user 4.4.2 HUAWEIMLA-AL10 381180529 release-keys,MLA-AL10,HUAWEI ,null,Dalvik,1
+armeabi-v7a,ubuntu-121-161,qcom,R11,unknown,armeabi,R11-user 4.4.2 NMF26X 381180418 release-keys,sdm660,OPPO,null,Dalvik,1
+armeabi-v7a,ubuntu-121-161,qcom,R11,unknown,armeabi,R11-user 4.4.2 NMF26X 381180418 release-keys,sdm660,OPPO,null,Dalvik,1
+armeabi-v7a,siajk233cna,hi6250,HNNEM-H,unknown,armeabi,NEM-AL10C00B192,NEM-AL10,HUAWEI,HONORNEM-AL10,ART,1
+armeabi-v7a,ubuntu-121-161,qcom,R11,unknown,armeabi,R11-user 4.4.2 NMF26X 381180418 release-keys,sdm660,OPPO,null,Dalvik,1
+armeabi-v7a,wuhjk0361cna,hi3635,HWCRR,unknown,armeabi,CRR-UL00C00B370,CRR-UL00,HUAWEI,HUAWEICRR-UL00,ART,1
+armeabi-v7a,siajk233cna,hi6250,HNNEM-H,unknown,armeabi,NEM-AL10C00B192,NEM-AL10,HUAWEI,HONORNEM-AL10,ART,1
+armeabi-v7a,ubuntu-121-161,qcom,R11,unknown,armeabi,R11-user 4.4.2 NMF26X 381180418 release-keys,sdm660,OPPO,null,Dalvik,1
+armeabi-v7a,DOOV,mt6755,DOOV L9,unknown,armeabi,L9_11_3.15_170301,DOOV L9,DOOV,MRA58K,ART,1
+x86,SWDB4706,qcom,cs02ve3g,unknown,armeabi-v7a,cs02ve3gctc-user 4.4.2 JLS36C 3.8.017.0927 release-keys,PRO5,samsung,null,Dalvik,1
+armeabi-v7a,SWDG2909,samsungexynox8895,dream2lteks,unknown,armeabi,SM-G955N-user 4.4.2 NRD90M 381180613 release-keys,universal8895,samsung,null,Dalvik,1
+armeabi-v7a,SWDG2909,qcom,SM-G955F,A9000ZCU1BQC1,armeabi,SM-G955F-user 4.4.2 JLS36C 381180523 release-keys,SM-G955F,samsung,null,Dalvik,1
+armeabi-v7a,SWDG2909,qcom,SM-G955F,A9000ZCU1BQC1,armeabi,SM-G955F-user 4.4.2 JLS36C 381180523 release-keys,SM-G955F,samsung,null,Dalvik,1
+armeabi-v7a,DOOV,mt6735,DOOV C70,unknown,armeabi,AY.C70_11_3.05_180326,DOOV C70,DOOV,MRA58K,ART,1
+armeabi-v7a,DOOV,mt6755,DOOV L9,unknown,armeabi,L9_11_3.15_170301,DOOV L9,DOOV,MRA58K,ART,1
+armeabi-v7a,SWDG2909,qcom,SM-G955F,A9000ZCU1BQC1,armeabi,SM-G955F-user 4.4.2 JLS36C 381180523 release-keys,SM-G955F,samsung,null,Dalvik,1
+armeabi-v7a,SWDG2909,qcom,SM-G955F,A9000ZCU1BQC1,armeabi,SM-G955F-user 4.4.2 JLS36C 381180523 release-keys,SM-G955F,samsung,null,Dalvik,1
+armeabi-v7a,DOOV,mt6735,DOOV C70,unknown,armeabi,AY.C70_11_3.05_180326,DOOV C70,DOOV,MRA58K,ART,1
+armeabi-v7a,SWDG2909,qcom,sagit ,aruba3gzc,armeabi,sagit-user 4.4.2 NMF26X 381180523 release-keys,SM-G955F,Xiaomi ,null,Dalvik,1
+armeabi-v7a,siajk233cna,hi6250,HNNEM-H,unknown,armeabi,NEM-AL10C00B192,NEM-AL10,HUAWEI,HONORNEM-AL10,ART,1
+armeabi-v7a,SWDG2909,qcom,SM-G955F,A9000ZCU1BQC1,armeabi,SM-G955F-user 4.4.2 JLS36C 381180523 release-keys,SM-G955F,samsung,null,Dalvik,1
+armeabi-v7a,SWDG2909,qcom,sagit ,aruba3gzc,armeabi,sagit-user 4.4.2 NMF26X 381180523 release-keys,SM-G955F,Xiaomi ,null,Dalvik,1
+armeabi-v7a,SWDG2909,qcom,sagit ,aruba3gzc,armeabi,sagit-user 4.4.2 NMF26X 381180523 release-keys,SM-G955F,Xiaomi ,null,Dalvik,1
+armeabi-v7a,SWDG2909,qcom,sagit ,aruba3gzc,armeabi,sagit-user 4.4.2 NMF26X 381180523 release-keys,SM-G955F,Xiaomi ,null,Dalvik,1
+armeabi-v7a,SWDG2909,qcom,SM-G955F,A9000ZCU1BQC1,armeabi,SM-G955F-user 4.4.2 JLS36C 381180523 release-keys,SM-G955F,samsung,null,Dalvik,1
+armeabi-v7a,SWDG2909,qcom,sagit ,aruba3gzc,armeabi,sagit-user 4.4.2 NMF26X 381180523 release-keys,SM-G955F,Xiaomi ,null,Dalvik,1
+armeabi-v7a,ubuntu,vbox86,vbox86tp,unknown,armeabi,vbox86tp-userdebug,unknown,Genymotion,JDQ39E,Dalvik,1
+armeabi-v7a,xmws72,qcom,sisleylt,unknown,armeabi,sisleylt-user 4.4.2 KTU84P 3.8.017.0927 release-keys,GRA-TL00,LENOVO,null,Dalvik,1
+armeabi-v7a,siajk233cna,hi6250,HNNEM-H,unknown,armeabi,NEM-AL10C00B192,NEM-AL10,HUAWEI,HONORNEM-AL10,ART,1
+armeabi-v7a,DOOV,mt6755,DOOV L9,unknown,armeabi,L9_11_3.15_170301,DOOV L9,DOOV,MRA58K,ART,1
+armeabi-v7a,ubuntu-121-161,qcom,R11,unknown,armeabi,R11_11_A.36_180426,sdm660,OPPO,NMF26X,ART,0
+armeabi-v7a,huawei-desktop,hi3635,HWPLK,unknown,armeabi,PLK-TL01HC01B389,PLK-TL01H,HUAWEI,HONORPLK-TL01H,ART,0
+armeabi-v7a,huawei-desktop,qcom,HWDIG-L8940,unknown,armeabi,Diego-AL00C00B210,DIG-AL00,HUAWEI,HUAWEIDIG-AL00,ART,0
+armeabi-v7a,localhost,qcom,hwRIO-AL00,unknown,armeabi,RIO-AL00C00B392,RIO-AL00,HUAWEI,HuaweiRIO-AL00,ART,0
+armeabi-v7a,SIA1000116872,hi3660,HWLON,unknown,armeabi,LON-AL00 8.0.0.354(C00),LON,HUAWEI,HUAWEILON-AL00,ART,0
+armeabi-v7a,SWDG2909,qcom,sagit ,aruba3gzc,armeabi,sagit-user 4.4.2 NMF26X 381180523 release-keys,SM-G955F,Xiaomi ,null,Dalvik,1
+armeabi-v7a,SWDG2909,qcom,sagit ,aruba3gzc,armeabi,sagit-user 4.4.2 NMF26X 381180523 release-keys,SM-G955F,Xiaomi ,null,Dalvik,1
+armeabi-v7a,ubuntu-121-161,qcom,R11,unknown,armeabi,R11-user 4.4.2 NMF26X 381180418 release-keys,sdm660,OPPO,null,Dalvik,1
+armeabi-v7a,siajk233cna,hi6250,HNNEM-H,unknown,armeabi,NEM-AL10C00B192,NEM-AL10,HUAWEI,HONORNEM-AL10,ART,1
+armeabi-v7a,DOOV,mt6755,DOOV L9,unknown,armeabi,L9_11_3.15_170301,DOOV L9,DOOV,MRA58K,ART,1
+armeabi-v7a,ubuntu-121-161,qcom,R11,unknown,armeabi,R11-user 4.4.2 NMF26X 381180418 release-keys,sdm660,OPPO,null,Dalvik,1
+armeabi-v7a,ubuntu-121-161,qcom,R11,unknown,armeabi,R11-user 4.4.2 NMF26X 381180418 release-keys,sdm660,OPPO,null,Dalvik,1
+armeabi-v7a,ubuntu-121-161,qcom,R11,unknown,armeabi,R11-user 4.4.2 NMF26X 381180418 release-keys,sdm660,OPPO,null,Dalvik,1
+armeabi-v7a,android-PC,sofiaboard,sofia3gr_car,1639.400_M1S1,armeabi,sofia3gr_car-userdebug 5.1.1 LMY49F eng.levilin.20180328.164737 test-keys,rk30sdk,Rockchip,LMY49F,ART,1
+armeabi-v7a,ubuntu,mt6589,R823T,unknown,armeabi,HUAWEI,GRA-TL00,OPPO,null,Dalvik,1
+armeabi-v7a,siajk233cna,hi6250,HNNEM-H,unknown,armeabi,NEM-AL10C00B192,NEM-AL10,HUAWEI,HONORNEM-AL10,ART,1
+armeabi-v7a,ubuntu-121-161,qcom,R11,unknown,armeabi,R11-user 4.4.2 NMF26X 381180529 release-keys,sdm660,OPPO,null,Dalvik,1
+armeabi-v7a,WUH1000105879,qcom,M6Note,unknown,armeabi,meizu_M6Note-user 4.4.2 N2G47H 381180529 release-keys,MLA-AL10,Meizu,null,Dalvik,1
+armeabi-v7a,DOOV,mt6755,DOOV L9,unknown,armeabi,L9_11_3.15_170301,DOOV L9,DOOV,MRA58K,ART,1
+armeabi-v7a,ubuntu-121-161,qcom,R11,unknown,armeabi,R11-user 4.4.2 NMF26X 381180418 release-keys,sdm660,OPPO,null,Dalvik,1
+armeabi-v7a,ubuntu-121-161,qcom,R11,unknown,armeabi,R11-user 4.4.2 NMF26X 381180529 release-keys,sdm660,OPPO,null,Dalvik,1
+armeabi-v7a,ubuntu-121-161,qcom,R11,unknown,armeabi,R11-user 4.4.2 NMF26X 381180418 release-keys,sdm660,OPPO,null,Dalvik,1
+armeabi-v7a,ubuntu,vbox86,vbox86tp,unknown,armeabi,vbox86tp-userdebug,unknown,Genymotion,JDQ39E,Dalvik,1
+armeabi-v7a,ubuntu-121-161,qcom,R11,unknown,armeabi,R11-user 4.4.2 NMF26X 381180418 release-keys,sdm660,OPPO,null,Dalvik,1
+armeabi-v7a,ubuntu-121-161,qcom,R11,unknown,armeabi,R11-user 4.4.2 NMF26X 381180418 release-keys,sdm660,OPPO,null,Dalvik,1
+armeabi-v7a,wuhjk0361cna,hi3635,HWCRR,unknown,armeabi,CRR-UL00C00B370,CRR-UL00,HUAWEI,HUAWEICRR-UL00,ART,1
+x86,SWDB4706,qcom,cs02ve3g,unknown,armeabi-v7a,cs02ve3gctc-user 4.4.2 JLS36C 3.8.017.0927 release-keys,PRO5,samsung,null,Dalvik,1
+armeabi-v7a,siajk233cna,hi6250,HNNEM-H,unknown,armeabi,NEM-AL10C00B192,NEM-AL10,HUAWEI,HONORNEM-AL10,ART,1
+armeabi-v7a,SWDG2909,qcom,SM-G955F,A9000ZCU1BQC1,armeabi,SM-G955F-user 4.4.2 JLS36C 381180523 release-keys,SM-G955F,samsung,null,Dalvik,1
+armeabi-v7a,siajk233cna,hi6250,HNNEM-H,unknown,armeabi,NEM-AL10C00B192,NEM-AL10,HUAWEI,HONORNEM-AL10,ART,1
+armeabi-v7a,DOOV,mt6735,DOOV C70,unknown,armeabi,AY.C70_11_3.05_180326,DOOV C70,DOOV,MRA58K,ART,1
+armeabi-v7a,huawei-desktop,qcom,HWDIG-L8940,unknown,armeabi,Diego-AL00C00B165,DIG-AL00,HUAWEI,HUAWEIDIG-AL00,ART,1
+armeabi-v7a,SWDG2909,qcom,SM-G955F,A9000ZCU1BQC1,armeabi,SM-G955F-user 4.4.2 JLS36C 381180523 release-keys,SM-G955F,samsung,null,Dalvik,1
+armeabi-v7a,SWDG2909,qcom,sagit ,aruba3gzc,armeabi,sagit-user 4.4.2 NMF26X 381180523 release-keys,SM-G955F,Xiaomi ,null,Dalvik,1
+armeabi-v7a,DOOV,mt6735,DOOV C70,unknown,armeabi,AY.C70_11_3.05_180326,DOOV C70,DOOV,MRA58K,ART,1
+armeabi-v7a,SWDG2909,qcom,SM-G955F,A9000ZCU1BQC1,armeabi,SM-G955F-user 4.4.2 JLS36C 381180523 release-keys,SM-G955F,samsung,null,Dalvik,1
+armeabi-v7a,siajk233cna,hi6250,HNNEM-H,unknown,armeabi,NEM-AL10C00B192,NEM-AL10,HUAWEI,HONORNEM-AL10,ART,1
+armeabi-v7a,SWDG2909,qcom,SM-G955F,A9000ZCU1BQC1,armeabi,SM-G955F-user 4.4.2 JLS36C 381180523 release-keys,SM-G955F,samsung,null,Dalvik,1
+armeabi-v7a,SWDG2909,qcom,sagit ,aruba3gzc,armeabi,sagit-user 4.4.2 NMF26X 381180523 release-keys,SM-G955F,Xiaomi ,null,Dalvik,1
+armeabi-v7a,SWDG2909,qcom,sagit ,aruba3gzc,armeabi,sagit-user 4.4.2 NMF26X 381180523 release-keys,SM-G955F,Xiaomi ,null,Dalvik,1
+armeabi-v7a,SWDG2909,qcom,sagit ,aruba3gzc,armeabi,sagit-user 4.4.2 NMF26X 381180523 release-keys,SM-G955F,Xiaomi ,null,Dalvik,1
+armeabi-v7a,SWDG2909,qcom,SM-G955F,A9000ZCU1BQC1,armeabi,SM-G955F-user 4.4.2 JLS36C 381180523 release-keys,SM-G955F,samsung,null,Dalvik,1
+armeabi-v7a,SWDG2909,qcom,SM-G955F,A9000ZCU1BQC1,armeabi,SM-G955F-user 4.4.2 JLS36C 381180523 release-keys,SM-G955F,samsung,null,Dalvik,1
+armeabi-v7a,ubuntu,vbox86,vbox86tp,unknown,armeabi,vbox86tp-userdebug,unknown,Genymotion,JDQ39E,Dalvik,1
+armeabi-v7a,SWDG2909,qcom,sagit ,aruba3gzc,armeabi,sagit-user 4.4.2 NMF26X 381180523 release-keys,SM-G955F,Xiaomi ,null,Dalvik,1
+armeabi-v7a,ubuntu-121-161,qcom,HWMLA ,unknown,armeabi,MLA-AL10-user 4.4.2 HUAWEIMLA-AL10 381180224 release-keys,sdm660,HUAWEI ,null,Dalvik,1
+armeabi-v7a,xmws72,qcom,sisleylt,unknown,armeabi,sisleylt-user 4.4.2 KTU84P 3.8.017.0927 release-keys,GRA-TL00,LENOVO,null,Dalvik,1
+armeabi-v7a,ubuntu-121-152,mt6755,R9,unknown,armeabi,R9m_11_A.44_180224,full_oppo6755_15111,OPPO,LMY47I,ART,0
+armeabi-v7a,mz-builder-4,mt6755,m3note,unknown,armeabi,Flyme 6.3.0.2A,m3note,Meizu,NRD90M,ART,0
+armeabi-v7a,huawei80,qcom,HWMLA,unknown,armeabi,MLA-AL10C00B180,MLA-AL10,HUAWEI,HUAWEIMLA-AL10,ART,0
+armeabi-v7a,wuhjk0069cna,hi3650,HWNXT,unknown,armeabi,NXT-DL00C17B577,NXT-DL00,HUAWEI,HUAWEINXT-DL00,ART,0
+armeabi-v7a,softci1,qcom,odin,unknown,armeabi,NMF26F dev-keys,msm8953,smartisan,NMF26F,ART,0
+armeabi-v7a,SWDG2909,qcom,sagit ,aruba3gzc,armeabi,sagit-user 4.4.2 NMF26X 381180523 release-keys,SM-G955F,Xiaomi ,null,Dalvik,1
+armeabi-v7a,ubuntu-121-161,qcom,R11,unknown,armeabi,R11-user 4.4.2 NMF26X 381180418 release-keys,sdm660,OPPO,null,Dalvik,1
+armeabi-v7a,ubuntu-121-161,qcom,R11,unknown,armeabi,R11-user 4.4.2 NMF26X 381180418 release-keys,sdm660,OPPO,null,Dalvik,1
+armeabi-v7a,siajk233cna,hi6250,HNNEM-H,unknown,armeabi,NEM-AL10C00B192,NEM-AL10,HUAWEI,HONORNEM-AL10,ART,1
+armeabi-v7a,ubuntu-121-161,qcom,R11,unknown,armeabi,R11-user 4.4.2 NMF26X 381180418 release-keys,sdm660,OPPO,null,Dalvik,1
+armeabi-v7a,ubuntu-121-161,qcom,R11,unknown,armeabi,R11-user 4.4.2 NMF26X 381180418 release-keys,sdm660,OPPO,null,Dalvik,1
+armeabi-v7a,ubuntu-121-161,qcom,R11,unknown,armeabi,R11-user 4.4.2 NMF26X 381180418 release-keys,sdm660,OPPO,null,Dalvik,1
+armeabi-v7a,ubuntu-121-161,qcom,R11,unknown,armeabi,R11-user 4.4.2 NMF26X 381180418 release-keys,sdm660,OPPO,null,Dalvik,1
+armeabi-v7a,android-PC,sofiaboard,sofia3gr_car,1639.400_M1S1,armeabi,sofia3gr_car-userdebug 5.1.1 LMY49F eng.levilin.20180328.164737 test-keys,rk30sdk,Rockchip,LMY49F,ART,1
+armeabi-v7a,ubuntu-121-161,qcom,R11,unknown,armeabi,R11-user 4.4.2 NMF26X 381180418 release-keys,sdm660,OPPO,null,Dalvik,1
+armeabi-v7a,ubuntu-121-161,qcom,R11,J3109KEU1AOK1,armeabi,R11-user 4.4.2 NMF26X 381180529 release-keys,sdm660,OPPO,null,Dalvik,1
+armeabi-v7a,WUH1000105879,qcom,HWMLA ,unknown,armeabi,MLA-AL10-user 4.4.2 HUAWEIMLA-AL10 381180529 release-keys,MLA-AL10,HUAWEI ,null,Dalvik,1
+armeabi-v7a,WUH1000105879,qcom,SM-G925F,unknown,armeabi,SM-G925F-user 4.4.2 JLS36C 381180529 release-keys,MLA-AL10,samsung,null,Dalvik,1
+armeabi-v7a,ubuntu-121-161,qcom,R11,unknown,armeabi,R11-user 4.4.2 NMF26X 381180418 release-keys,sdm660,OPPO,null,Dalvik,1
+armeabi-v7a,ubuntu-121-161,qcom,R11,unknown,armeabi,R11-user 4.4.2 NMF26X 381180418 release-keys,sdm660,OPPO,null,Dalvik,1
+armeabi-v7a,WUH1000105879,qcom,natrium,unknown,armeabi,natrium-user 4.4.2 NRD90M 381180529 release-keys,MLA-AL10,Xiaomi ,null,Dalvik,1
+armeabi-v7a,ubuntu-121-161,qcom,R11,unknown,armeabi,R11-user 4.4.2 NMF26X 381180418 release-keys,sdm660,OPPO,null,Dalvik,1
+armeabi-v7a,ubuntu,vbox86,vbox86tp,unknown,armeabi,vbox86tp-userdebug,unknown,Genymotion,JDQ39E,Dalvik,1
+armeabi-v7a,ubuntu-121-161,qcom,R11,unknown,armeabi,R11-user 4.4.2 NMF26X 381180418 release-keys,sdm660,OPPO,null,Dalvik,1
+armeabi-v7a,DOOV,mt6755,DOOV L9,unknown,armeabi,L9_11_3.15_170301,DOOV L9,DOOV,MRA58K,ART,1
+armeabi-v7a,wuhjk0361cna,hi3635,HWCRR,unknown,armeabi,CRR-UL00C00B370,CRR-UL00,HUAWEI,HUAWEICRR-UL00,ART,1
+x86,SWDB4706,qcom,cs02ve3g,unknown,armeabi-v7a,cs02ve3gctc-user 4.4.2 JLS36C 3.8.017.0927 release-keys,PRO5,samsung,null,Dalvik,1
+armeabi-v7a,siajk233cna,hi6250,HNNEM-H,unknown,armeabi,NEM-AL10C00B192,NEM-AL10,HUAWEI,HONORNEM-AL10,ART,1
+armeabi-v7a,wuhjk0361cna,hi3635,HWCRR,unknown,armeabi,CRR-UL00C00B370,CRR-UL00,HUAWEI,HUAWEICRR-UL00,ART,1
+armeabi-v7a,SWDG2909,qcom,SM-G955F,A9000ZCU1BQC1,armeabi,SM-G955F-user 4.4.2 JLS36C 381180523 release-keys,SM-G955F,samsung,null,Dalvik,1
+armeabi-v7a,DOOV,mt6735,DOOV C70,unknown,armeabi,AY.C70_11_3.05_180326,DOOV C70,DOOV,MRA58K,ART,1
+armeabi-v7a,DOOV,mt6755,DOOV L9,unknown,armeabi,L9_11_3.15_170301,DOOV L9,DOOV,MRA58K,ART,1
+armeabi-v7a,SWDG2909,qcom,SM-G955F,A9000ZCU1BQC1,armeabi,SM-G955F-user 4.4.2 JLS36C 381180523 release-keys,SM-G955F,samsung,null,Dalvik,1
+armeabi-v7a,siajk233cna,hi6250,HNNEM-H,unknown,armeabi,NEM-AL10C00B192,NEM-AL10,HUAWEI,HONORNEM-AL10,ART,1
+armeabi-v7a,DOOV,mt6735,DOOV C70,unknown,armeabi,AY.C70_11_3.05_180326,DOOV C70,DOOV,MRA58K,ART,1
+armeabi-v7a,SWDG2909,qcom,SM-G955F,A9000ZCU1BQC1,armeabi,SM-G955F-user 4.4.2 JLS36C 381180523 release-keys,SM-G955F,samsung,null,Dalvik,1
+armeabi-v7a,huawei-desktop,qcom,HWDIG-L8940,unknown,armeabi,Diego-AL00C00B165,DIG-AL00,HUAWEI,HUAWEIDIG-AL00,ART,1
+armeabi-v7a,huawei-desktop,qcom,HWDIG-L8940,unknown,armeabi,Diego-AL00C00B165,DIG-AL00,HUAWEI,HUAWEIDIG-AL00,ART,1
+armeabi-v7a,SWDG2909,qcom,sagit ,aruba3gzc,armeabi,sagit-user 4.4.2 NMF26X 381180523 release-keys,SM-G955F,Xiaomi ,null,Dalvik,1
+armeabi-v7a,SWDG2909,qcom,sagit ,aruba3gzc,armeabi,sagit-user 4.4.2 NMF26X 381180523 release-keys,SM-G955F,Xiaomi ,null,Dalvik,1
+armeabi-v7a,SWDG2909,qcom,sagit ,aruba3gzc,armeabi,sagit-user 4.4.2 NMF26X 381180523 release-keys,SM-G955F,Xiaomi ,null,Dalvik,1
+armeabi-v7a,SWDG2909,qcom,SM-G955F,A9000ZCU1BQC1,armeabi,SM-G955F-user 4.4.2 JLS36C 381180523 release-keys,SM-G955F,samsung,null,Dalvik,1
+armeabi-v7a,SWDG2909,qcom,SM-G955F,A9000ZCU1BQC1,armeabi,SM-G955F-user 4.4.2 JLS36C 381180523 release-keys,SM-G955F,samsung,null,Dalvik,1
+armeabi-v7a,ubuntu,vbox86,vbox86tp,unknown,armeabi,vbox86tp-userdebug,unknown,Genymotion,JDQ39E,Dalvik,1
+armeabi-v7a,xmws72,qcom,sisleylt,unknown,armeabi,sisleylt-user 4.4.2 KTU84P 3.8.017.0927 release-keys,GRA-TL00,LENOVO,null,Dalvik,1
+armeabi-v7a,ubuntu-121-161,qcom,HWMLA ,unknown,armeabi,MLA-AL10-user 4.4.2 HUAWEIMLA-AL10 381180224 release-keys,sdm660,HUAWEI ,null,Dalvik,1
+armeabi-v7a,siajk233cna,hi6250,HNNEM-H,unknown,armeabi,NEM-AL10C00B192,NEM-AL10,HUAWEI,HONORNEM-AL10,ART,1
+armeabi-v7a,WUH1000105879,qcom,HWMLA,unknown,armeabi,MLA-AL10C00B360,MLA-AL10,HUAWEI,HUAWEIMLA-AL10,ART,0
+armeabi-v7a,huawei-RH2288H-V2-12L,hi3630,hwmt7,unknown,armeabi,MT7-TL10C00B571,MT7-TL10,HUAWEI,HuaweiMT7-TL10,ART,0
+armeabi-v7a,compiler025,mt6752,PD1501D,unknown,armeabi,LMY47I release-keys,unknown,vivo,LMY47I,ART,0
+armeabi-v7a,BIANYI-22,mt6735,GIONEE_GBL7359,unknown,armeabi,amigo3.1.11,unknown,GIONEE,LMY47D,ART,0
+armeabi-v7a,SWDB2804,qcom,megapluslte,I9158VZMUAPD2,armeabi,JLS36C.I9158VZMUAPD2,MSM8926,samsung,JLS36C,Dalvik,0
+armeabi-v7a,ubuntu-121-161,qcom,R11,unknown,armeabi,R11-user 4.4.2 NMF26X 381180418 release-keys,sdm660,OPPO,null,Dalvik,1
+armeabi-v7a,siajk233cna,hi6250,HNNEM-H,unknown,armeabi,NEM-AL10C00B192,NEM-AL10,HUAWEI,HONORNEM-AL10,ART,1
+armeabi-v7a,ubuntu-121-161,qcom,R11,unknown,armeabi,R11-user 4.4.2 NMF26X 381180418 release-keys,sdm660,OPPO,null,Dalvik,1
+armeabi-v7a,siajk233cna,hi6250,HNNEM-H,unknown,armeabi,NEM-AL10C00B192,NEM-AL10,HUAWEI,HONORNEM-AL10,ART,1
+armeabi-v7a,ubuntu-121-161,qcom,R11,unknown,armeabi,R11-user 4.4.2 NMF26X 381180418 release-keys,sdm660,OPPO,null,Dalvik,1
+armeabi-v7a,siajk233cna,hi6250,HNNEM-H,unknown,armeabi,NEM-AL10C00B192,NEM-AL10,HUAWEI,HONORNEM-AL10,ART,1
+armeabi-v7a,ubuntu-121-161,qcom,R11,unknown,armeabi,R11-user 4.4.2 NMF26X 381180418 release-keys,sdm660,OPPO,null,Dalvik,1
+armeabi-v7a,ubuntu-121-161,qcom,R11,unknown,armeabi,R11-user 4.4.2 NMF26X 381180418 release-keys,sdm660,OPPO,null,Dalvik,1
+armeabi-v7a,DOOV,mt6755,DOOV L9,unknown,armeabi,L9_11_3.15_170301,DOOV L9,DOOV,MRA58K,ART,1
+armeabi-v7a,ubuntu-121-161,qcom,R11,unknown,armeabi,R11-user 4.4.2 NMF26X 381180418 release-keys,sdm660,OPPO,null,Dalvik,1
+armeabi-v7a,ubuntu-121-161,qcom,R11,unknown,armeabi,R11-user 4.4.2 NMF26X 381180529 release-keys,sdm660,OPPO,null,Dalvik,1
+armeabi-v7a,WUH1000105879,qcom,M6Note,unknown,armeabi,meizu_M6Note-user 4.4.2 N2G47H 381180529 release-keys,MLA-AL10,Meizu,null,Dalvik,1
+armeabi-v7a,siajk233cna,hi6250,HNNEM-H,unknown,armeabi,NEM-AL10C00B192,NEM-AL10,HUAWEI,HONORNEM-AL10,ART,1
+armeabi-v7a,ubuntu-121-161,qcom,R11,unknown,armeabi,R11-user 4.4.2 NMF26X 381180418 release-keys,sdm660,OPPO,null,Dalvik,1
+armeabi-v7a,ubuntu-121-161,qcom,R11,unknown,armeabi,R11-user 4.4.2 NMF26X 381180418 release-keys,sdm660,OPPO,null,Dalvik,1
+armeabi-v7a,android-PC,sofiaboard,sofia3gr_car,1639.400_M1S1,armeabi,sofia3gr_car-userdebug 5.1.1 LMY49F eng.levilin.20180328.164737 test-keys,rk30sdk,Rockchip,LMY49F,ART,1
+armeabi-v7a,android-PC,sofiaboard,sofia3gr_car,1639.400_M1S1,armeabi,sofia3gr_car-userdebug 5.1.1 LMY49F eng.levilin.20180328.164737 test-keys,rk30sdk,Rockchip,LMY49F,ART,1
+armeabi-v7a,SWDG2909,qcom,SM-G955F,unknown,armeabi,SM-G955F-user 4.4.2 JLS36C 381180529 release-keys,SM-G955F,samsung,null,Dalvik,1
+armeabi-v7a,ubuntu-121-161,qcom,R11,unknown,armeabi,R11-user 4.4.2 NMF26X 381180418 release-keys,sdm660,OPPO,null,Dalvik,1
+armeabi-v7a,siajk233cna,hi6250,HNNEM-H,unknown,armeabi,NEM-AL10C00B192,NEM-AL10,HUAWEI,HONORNEM-AL10,ART,1
+armeabi-v7a,wuhjk0361cna,hi3635,HWCRR,unknown,armeabi,CRR-UL00C00B370,CRR-UL00,HUAWEI,HUAWEICRR-UL00,ART,1
+x86,SWDB4706,qcom,cs02ve3g,unknown,armeabi-v7a,cs02ve3gctc-user 4.4.2 JLS36C 3.8.017.0927 release-keys,PRO5,samsung,null,Dalvik,1
+armeabi-v7a,siajk233cna,hi6250,HNNEM-H,unknown,armeabi,NEM-AL10C00B192,NEM-AL10,HUAWEI,HONORNEM-AL10,ART,1
+armeabi-v7a,siajk233cna,hi6250,HNNEM-H,unknown,armeabi,NEM-AL10C00B192,NEM-AL10,HUAWEI,HONORNEM-AL10,ART,1
+armeabi-v7a,SWDG2909,qcom,sagit ,aruba3gzc,armeabi,sagit-user 4.4.2 NMF26X 381180523 release-keys,SM-G955F,Xiaomi ,null,Dalvik,1
+armeabi-v7a,wuhjk0361cna,hi3635,HWCRR,unknown,armeabi,CRR-UL00C00B370,CRR-UL00,HUAWEI,HUAWEICRR-UL00,ART,1
+armeabi-v7a,siajk233cna,hi6250,HNNEM-H,unknown,armeabi,NEM-AL10C00B192,NEM-AL10,HUAWEI,HONORNEM-AL10,ART,1
+armeabi-v7a,SWDG2909,qcom,SM-G955F,A9000ZCU1BQC1,armeabi,SM-G955F-user 4.4.2 JLS36C 381180523 release-keys,SM-G955F,samsung,null,Dalvik,1
+armeabi-v7a,SWDG2909,qcom,SM-G955F,A9000ZCU1BQC1,armeabi,SM-G955F-user 4.4.2 JLS36C 381180523 release-keys,SM-G955F,samsung,null,Dalvik,1
+armeabi-v7a,wuhjk0361cna,hi3635,HWCRR,unknown,armeabi,CRR-UL00C00B370,CRR-UL00,HUAWEI,HUAWEICRR-UL00,ART,1
+armeabi-v7a,SWDG2909,qcom,sagit ,aruba3gzc,armeabi,sagit-user 4.4.2 NMF26X 381180523 release-keys,SM-G955F,Xiaomi ,null,Dalvik,1
+armeabi-v7a,DOOV,mt6755,DOOV L9,unknown,armeabi,L9_11_3.15_170301,DOOV L9,DOOV,MRA58K,ART,1
+armeabi-v7a,SWDG2909,qcom,SM-G955F,A9000ZCU1BQC1,armeabi,SM-G955F-user 4.4.2 JLS36C 381180523 release-keys,SM-G955F,samsung,null,Dalvik,1
+armeabi-v7a,SWDG2909,qcom,SM-G955F,A9000ZCU1BQC1,armeabi,SM-G955F-user 4.4.2 JLS36C 381180523 release-keys,SM-G955F,samsung,null,Dalvik,1
+armeabi-v7a,SWDG2909,qcom,sagit ,aruba3gzc,armeabi,sagit-user 4.4.2 NMF26X 381180523 release-keys,SM-G955F,Xiaomi ,null,Dalvik,1
+armeabi-v7a,SWDG2909,qcom,sagit ,aruba3gzc,armeabi,sagit-user 4.4.2 NMF26X 381180523 release-keys,SM-G955F,Xiaomi ,null,Dalvik,1
+armeabi-v7a,SWDG2909,qcom,SM-G955F,A9000ZCU1BQC1,armeabi,SM-G955F-user 4.4.2 JLS36C 381180523 release-keys,SM-G955F,samsung,null,Dalvik,1
+armeabi-v7a,SWDG2909,qcom,SM-G955F,A9000ZCU1BQC1,armeabi,SM-G955F-user 4.4.2 JLS36C 381180523 release-keys,SM-G955F,samsung,null,Dalvik,1
+armeabi-v7a,ubuntu,vbox86,vbox86tp,unknown,armeabi,vbox86tp-userdebug,unknown,Genymotion,JDQ39E,Dalvik,1
+armeabi-v7a,SWDG2909,qcom,sagit ,aruba3gzc,armeabi,sagit-user 4.4.2 NMF26X 381180523 release-keys,SM-G955F,Xiaomi ,null,Dalvik,1
+armeabi-v7a,ubuntu-121-161,qcom,HWMLA ,unknown,armeabi,MLA-AL10-user 4.4.2 HUAWEIMLA-AL10 381180224 release-keys,sdm660,HUAWEI ,null,Dalvik,1
+armeabi-v7a,DOOV,mt6735,DOOV C70,unknown,armeabi,AY.C70_11_3.05_180326,DOOV C70,DOOV,MRA58K,ART,1
+armeabi-v7a,qh-miui-ota-bd60,qcom,virgo,unknown,armeabi,KTU84P,MSM8974,Xiaomi,KTU84P,Dalvik,0
+armeabi-v7a,ubuntu-121-138,qcom,A57,unknown,armeabi,A57_11_A.26_180329,QC_Reference_Phone,OPPO,MMB29M,ART,0
+armeabi-v7a,compiler17,qcom,PD1730,unknown,armeabi,OPM1.171019.011 release-keys,msm8953,vivo,OPM1.171019.011,ART,0
+armeabi-v7a,SWDD5913,qcom,jsglte,I9508VZMSDQA2,armeabi,LRX22C.I9508VZMSDQA2,MSM8974,samsung,LRX22C,ART,0
+armeabi-v7a,WUH1000023810,hi3635,HWP8max,unknown,armeabi,DAV-703LC233B212,P8max,HUAWEI,HUAWEIDAV-703L,ART,0
+armeabi-v7a,SWDG2909,qcom,sagit ,aruba3gzc,armeabi,sagit-user 4.4.2 NMF26X 381180523 release-keys,SM-G955F,Xiaomi ,null,Dalvik,1
+armeabi-v7a,ubuntu-121-161,qcom,R11,unknown,armeabi,R11-user 4.4.2 NMF26X 381180418 release-keys,sdm660,OPPO,null,Dalvik,1
+armeabi-v7a,ubuntu-121-161,qcom,R11,unknown,armeabi,R11-user 4.4.2 NMF26X 381180418 release-keys,sdm660,OPPO,null,Dalvik,1
+armeabi-v7a,wuhjk0361cna,hi3635,HWCRR,unknown,armeabi,CRR-UL00C00B370,CRR-UL00,HUAWEI,HUAWEICRR-UL00,ART,1
+armeabi-v7a,WUH1000105879,qcom,R11,unknown,armeabi,R11-user 4.4.2 NMF26X 381180224 release-keys,MLA-AL10,OPPO,null,Dalvik,1
+armeabi-v7a,ubuntu-121-161,qcom,R11,unknown,armeabi,R11-user 4.4.2 NMF26X 381180418 release-keys,sdm660,OPPO,null,Dalvik,1
+armeabi-v7a,ubuntu-121-161,qcom,R11,unknown,armeabi,R11-user 4.4.2 NMF26X 381180418 release-keys,sdm660,OPPO,null,Dalvik,1
+armeabi-v7a,ubuntu-121-161,qcom,R11,unknown,armeabi,R11-user 4.4.2 NMF26X 381180418 release-keys,sdm660,OPPO,null,Dalvik,1
+armeabi-v7a,siajk233cna,hi6250,HNNEM-H,unknown,armeabi,NEM-AL10C00B192,NEM-AL10,HUAWEI,HONORNEM-AL10,ART,1
+armeabi-v7a,ubuntu-121-161,qcom,R11,unknown,armeabi,R11-user 4.4.2 NMF26X 381180418 release-keys,sdm660,OPPO,null,Dalvik,1
+armeabi-v7a,ubuntu-121-161,qcom,R11,J3109KEU1AOK1,armeabi,R11-user 4.4.2 NMF26X 381180529 release-keys,sdm660,OPPO,null,Dalvik,1
+armeabi-v7a,WUH1000105879,qcom,SM-G925F,unknown,armeabi,SM-G925F-user 4.4.2 JLS36C 381180529 release-keys,MLA-AL10,samsung,null,Dalvik,1
+armeabi-v7a,WUH1000105879,qcom,HWMLA ,unknown,armeabi,MLA-AL10-user 4.4.2 HUAWEIMLA-AL10 381180529 release-keys,MLA-AL10,HUAWEI ,null,Dalvik,1
+armeabi-v7a,ubuntu-121-161,qcom,R11,unknown,armeabi,R11-user 4.4.2 NMF26X 381180418 release-keys,sdm660,OPPO,null,Dalvik,1
+x86,osboxes,cancro,cancro,U-Boot,armeabi-v7a,cancro-eng 4.4.4 V417IR eng.root.20180201.174500 release-keys,hammerhead,Netease,V417IR,Dalvik,1
+armeabi-v7a,android-PC,sofiaboard,sofia3gr_car,1639.400_M1S1,armeabi,sofia3gr_car-userdebug 5.1.1 LMY49F eng.levilin.20180328.164737 test-keys,rk30sdk,Rockchip,LMY49F,ART,1
+x86,osboxes,cancro,cancro,U-Boot,armeabi-v7a,cancro-eng 4.4.4 V417IR eng.root.20180201.174500 release-keys,hammerhead,Netease,V417IR,Dalvik,1
+armeabi-v7a,ubuntu-121-161,qcom,R11,unknown,armeabi,R11-user 4.4.2 NMF26X 381180529 release-keys,sdm660,OPPO,null,Dalvik,1
+armeabi-v7a,SWDD5916,qcom,jflte,msm8960,armeabi,JDQ39.G3818ZMUAML7,MSM8960,samsung,null,Dalvik,1
+armeabi-v7a,ubuntu-121-161,qcom,R11,unknown,armeabi,R11-user 4.4.2 NMF26X 381180418 release-keys,sdm660,OPPO,null,Dalvik,1
+armeabi-v7a,DOOV,mt6755,DOOV L9,unknown,armeabi,L9_11_3.15_170301,DOOV L9,DOOV,MRA58K,ART,1
+x86,SWDB4706,qcom,cs02ve3g,unknown,armeabi-v7a,cs02ve3gctc-user 4.4.2 JLS36C 3.8.017.0927 release-keys,PRO5,samsung,null,Dalvik,1
+armeabi-v7a,DOOV,mt6755,DOOV L9,unknown,armeabi,L9_11_3.15_170301,DOOV L9,DOOV,MRA58K,ART,1
+armeabi-v7a,wuhjk0361cna,hi3635,HWCRR,unknown,armeabi,CRR-UL00C00B370,CRR-UL00,HUAWEI,HUAWEICRR-UL00,ART,1
+armeabi-v7a,SWDG2909,qcom,sagit ,aruba3gzc,armeabi,sagit-user 4.4.2 NMF26X 381180523 release-keys,SM-G955F,Xiaomi ,null,Dalvik,1
+armeabi-v7a,DOOV,mt6735,DOOV C70,unknown,armeabi,AY.C70_11_3.05_180326,DOOV C70,DOOV,MRA58K,ART,1
+armeabi-v7a,ubuntu-121-161,qcom,HWMLA ,unknown,armeabi,MLA-AL10-user 4.4.2 HUAWEIMLA-AL10 381180224 release-keys,sdm660,HUAWEI ,null,Dalvik,1
+armeabi-v7a,DOOV,mt6735,DOOV C70,unknown,armeabi,AY.C70_11_3.05_180326,DOOV C70,DOOV,MRA58K,ART,1
+armeabi-v7a,wuhjk0361cna,hi3635,HWCRR,unknown,armeabi,CRR-UL00C00B370,CRR-UL00,HUAWEI,HUAWEICRR-UL00,ART,1
+armeabi-v7a,DOOV,mt6735,DOOV C70,unknown,armeabi,AY.C70_11_3.05_180326,DOOV C70,DOOV,MRA58K,ART,1
+armeabi-v7a,siajk233cna,hi6250,HNNEM-H,unknown,armeabi,NEM-AL10C00B192,NEM-AL10,HUAWEI,HONORNEM-AL10,ART,1
+armeabi-v7a,huawei-desktop,qcom,HWDIG-L8940,unknown,armeabi,Diego-AL00C00B165,DIG-AL00,HUAWEI,HUAWEIDIG-AL00,ART,1
+armeabi-v7a,SWDG2909,qcom,SM-G955F,A9000ZCU1BQC1,armeabi,SM-G955F-user 4.4.2 JLS36C 381180523 release-keys,SM-G955F,samsung,null,Dalvik,1
+armeabi-v7a,SWDG2909,qcom,sagit ,aruba3gzc,armeabi,sagit-user 4.4.2 NMF26X 381180523 release-keys,SM-G955F,Xiaomi ,null,Dalvik,1
+armeabi-v7a,SWDG2909,qcom,sagit ,aruba3gzc,armeabi,sagit-user 4.4.2 NMF26X 381180523 release-keys,SM-G955F,Xiaomi ,null,Dalvik,1
+armeabi-v7a,SWDG2909,qcom,sagit ,aruba3gzc,armeabi,sagit-user 4.4.2 NMF26X 381180523 release-keys,SM-G955F,Xiaomi ,null,Dalvik,1
+armeabi-v7a,SWDG2909,qcom,SM-G955F,A9000ZCU1BQC1,armeabi,SM-G955F-user 4.4.2 JLS36C 381180523 release-keys,SM-G955F,samsung,null,Dalvik,1
+armeabi-v7a,SWDD5916,qcom,jflte,msm8960,armeabi,JDQ39.G3818ZMUAML7,MSM8960,samsung,null,Dalvik,1
+armeabi-v7a,wuhjk0361cna,hi3635,HWCRR,unknown,armeabi,CRR-UL00C00B370,CRR-UL00,HUAWEI,HUAWEICRR-UL00,ART,1
+armeabi-v7a,SWDG2909,qcom,sagit ,aruba3gzc,armeabi,sagit-user 4.4.2 NMF26X 381180523 release-keys,SM-G955F,Xiaomi ,null,Dalvik,1
+armeabi-v7a,ubuntu-121-161,qcom,HWMLA ,unknown,armeabi,MLA-AL10-user 4.4.2 HUAWEIMLA-AL10 381180224 release-keys,sdm660,HUAWEI ,null,Dalvik,1
+armeabi-v7a,DOOV,mt6735,DOOV C70,unknown,armeabi,AY.C70_11_3.05_180326,DOOV C70,DOOV,MRA58K,ART,1
+armeabi-v7a,compiler028,qcom,PD1708,unknown,armeabi,N2G47H release-keys,msm8953,vivo,N2G47H,ART,0
+armeabi-v7a,c3-miui-ota-bd96.bj,qcom,vince,unknown,armeabi,ZQL1711-vince-build-20180405211547,msm8953,Xiaomi,N2G47H,ART,0
+armeabi-v7a,ubuntu-121-107,mt6755,R9,unknown,armeabi,R9tm_11_A.26_160716,full_oppo6755_15111,OPPO,LMY47I,ART,0
+armeabi-v7a,COMPILER-14,mt6755,GIONEE_GBL7529,unknown,armeabi,amigo3.2.16,GN9012,GIONEE,MRA58K,ART,0
+armeabi-v7a,wuhjk0414cna,hi3660,HWVTR,unknown,armeabi,VTR-AL00 8.0.0.342(C00),VTR,HUAWEI,HUAWEIVTR-AL00,ART,0
+armeabi-v7a,SWDG2909,qcom,sagit ,aruba3gzc,armeabi,sagit-user 4.4.2 NMF26X 381180523 release-keys,SM-G955F,Xiaomi ,null,Dalvik,1
+armeabi-v7a,ubuntu-121-161,qcom,R11,unknown,armeabi,R11-user 4.4.2 NMF26X 381180418 release-keys,sdm660,OPPO,null,Dalvik,1
+armeabi-v7a,ubuntu-121-161,qcom,R11,unknown,armeabi,R11-user 4.4.2 NMF26X 381180418 release-keys,sdm660,OPPO,null,Dalvik,1
+armeabi-v7a,wuhjk0361cna,hi3635,HWCRR,unknown,armeabi,CRR-UL00C00B370,CRR-UL00,HUAWEI,HUAWEICRR-UL00,ART,1
+armeabi-v7a,ubuntu-121-161,qcom,R11,unknown,armeabi,R11-user 4.4.2 NMF26X 381180418 release-keys,sdm660,OPPO,null,Dalvik,1
+armeabi-v7a,ubuntu-121-161,qcom,R11,unknown,armeabi,R11-user 4.4.2 NMF26X 381180418 release-keys,sdm660,OPPO,null,Dalvik,1
+armeabi-v7a,ubuntu-121-161,qcom,R11,unknown,armeabi,R11-user 4.4.2 NMF26X 381180418 release-keys,sdm660,OPPO,null,Dalvik,1
+armeabi-v7a,ubuntu-121-161,qcom,R11,unknown,armeabi,R11-user 4.4.2 NMF26X 381180418 release-keys,sdm660,OPPO,null,Dalvik,1
+armeabi-v7a,ubuntu-121-161,qcom,R11,unknown,armeabi,R11-user 4.4.2 NMF26X 381180418 release-keys,sdm660,OPPO,null,Dalvik,1
+armeabi-v7a,Secneo,qcom,sagit ,unknown,armeabi,sagit-user 4.4.2 NMF26X 381180224 release-keys,moorefield,Bangcle,null,Dalvik,1
+armeabi-v7a,ubuntu-121-161,qcom,R11,J3109KEU1AOK1,armeabi,R11-user 4.4.2 NMF26X 381180529 release-keys,sdm660,OPPO,null,Dalvik,1
+armeabi-v7a,DOOV,mt6755,DOOV L9,unknown,armeabi,L9_11_3.15_170301,DOOV L9,DOOV,MRA58K,ART,1
+armeabi-v7a,WUH1000105879,qcom,M6Note,unknown,armeabi,meizu_M6Note-user 4.4.2 N2G47H 381180529 release-keys,MLA-AL10,Meizu,null,Dalvik,1
+armeabi-v7a,ubuntu-121-161,qcom,R11,unknown,armeabi,R11-user 4.4.2 NMF26X 381180418 release-keys,sdm660,OPPO,null,Dalvik,1
+x86,osboxes,cancro,cancro,U-Boot,armeabi-v7a,cancro-eng 4.4.4 V417IR eng.root.20180201.174500 release-keys,hammerhead,Netease,V417IR,Dalvik,1
+armeabi-v7a,android-PC,sofiaboard,sofia3gr_car,1639.400_M1S1,armeabi,sofia3gr_car-userdebug 5.1.1 LMY49F eng.levilin.20180328.164737 test-keys,rk30sdk,Rockchip,LMY49F,ART,1
+armeabi-v7a,siajk233cna,hi6250,HNNEM-H,unknown,armeabi,NEM-AL10C00B192,NEM-AL10,HUAWEI,HONORNEM-AL10,ART,1
+armeabi-v7a,wuhjk0361cna,hi3635,HWCRR,unknown,armeabi,CRR-UL00C00B370,CRR-UL00,HUAWEI,HUAWEICRR-UL00,ART,1
+armeabi-v7a,SWDD5916,qcom,jflte,msm8960,armeabi,JDQ39.G3818ZMUAML7,MSM8960,samsung,null,Dalvik,1
+armeabi-v7a,wuhjk0361cna,hi3635,HWCRR,unknown,armeabi,CRR-UL00C00B370,CRR-UL00,HUAWEI,HUAWEICRR-UL00,ART,1
+armeabi-v7a,wuhjk0361cna,hi3635,HWCRR,unknown,armeabi,CRR-UL00C00B370,CRR-UL00,HUAWEI,HUAWEICRR-UL00,ART,1
+x86,SWDB4706,qcom,cs02ve3g,unknown,armeabi-v7a,cs02ve3gctc-user 4.4.2 JLS36C 3.8.017.0927 release-keys,PRO5,samsung,null,Dalvik,1
+armeabi-v7a,SWDG2909,qcom,sagit ,aruba3gzc,armeabi,sagit-user 4.4.2 NMF26X 381180523 release-keys,SM-G955F,Xiaomi ,null,Dalvik,1
+armeabi-v7a,wuhjk0361cna,hi3635,HWCRR,unknown,armeabi,CRR-UL00C00B370,CRR-UL00,HUAWEI,HUAWEICRR-UL00,ART,1
+armeabi-v7a,SWDG2909,qcom,sagit ,aruba3gzc,armeabi,sagit-user 4.4.2 NMF26X 381180523 release-keys,SM-G955F,Xiaomi ,null,Dalvik,1
+armeabi-v7a,DOOV,mt6735,DOOV C70,unknown,armeabi,AY.C70_11_3.05_180326,DOOV C70,DOOV,MRA58K,ART,1
+armeabi-v7a,ubuntu-121-161,qcom,HWMLA ,unknown,armeabi,MLA-AL10-user 4.4.2 HUAWEIMLA-AL10 381180224 release-keys,sdm660,HUAWEI ,null,Dalvik,1
+armeabi-v7a,DOOV,mt6735,DOOV C70,unknown,armeabi,AY.C70_11_3.05_180326,DOOV C70,DOOV,MRA58K,ART,1
+armeabi-v7a,SWDG2909,qcom,SM-G955F,A9000ZCU1BQC1,armeabi,SM-G955F-user 4.4.2 JLS36C 381180523 release-keys,SM-G955F,samsung,null,Dalvik,1
+armeabi-v7a,DOOV,mt6735,DOOV C70,unknown,armeabi,AY.C70_11_3.05_180326,DOOV C70,DOOV,MRA58K,ART,1
+armeabi-v7a,SWDG2909,qcom,SM-G955F,A9000ZCU1BQC1,armeabi,SM-G955F-user 4.4.2 JLS36C 381180523 release-keys,SM-G955F,samsung,null,Dalvik,1
+armeabi-v7a,siajk233cna,hi6250,HNNEM-H,unknown,armeabi,NEM-AL10C00B192,NEM-AL10,HUAWEI,HONORNEM-AL10,ART,1
+armeabi-v7a,wuhjk0361cna,hi3635,HWCRR,unknown,armeabi,CRR-UL00C00B370,CRR-UL00,HUAWEI,HUAWEICRR-UL00,ART,1
+armeabi-v7a,SWDG2909,qcom,sagit ,aruba3gzc,armeabi,sagit-user 4.4.2 NMF26X 381180523 release-keys,SM-G955F,Xiaomi ,null,Dalvik,1
+armeabi-v7a,SWDG2909,qcom,sagit ,aruba3gzc,armeabi,sagit-user 4.4.2 NMF26X 381180523 release-keys,SM-G955F,Xiaomi ,null,Dalvik,1
+armeabi-v7a,SWDG2909,qcom,sagit ,aruba3gzc,armeabi,sagit-user 4.4.2 NMF26X 381180523 release-keys,SM-G955F,Xiaomi ,null,Dalvik,1
+armeabi-v7a,SWDG2909,qcom,SM-G955F,A9000ZCU1BQC1,armeabi,SM-G955F-user 4.4.2 JLS36C 381180523 release-keys,SM-G955F,samsung,null,Dalvik,1
+armeabi-v7a,siajk233cna,hi6250,HNNEM-H,unknown,armeabi,NEM-AL10C00B192,NEM-AL10,HUAWEI,HONORNEM-AL10,ART,1
+armeabi-v7a,wuhjk0361cna,hi3635,HWCRR,unknown,armeabi,CRR-UL00C00B370,CRR-UL00,HUAWEI,HUAWEICRR-UL00,ART,1
+armeabi-v7a,SWDG2909,qcom,sagit ,aruba3gzc,armeabi,sagit-user 4.4.2 NMF26X 381180523 release-keys,SM-G955F,Xiaomi ,null,Dalvik,1
+armeabi-v7a,ubuntu-121-161,qcom,HWMLA ,unknown,armeabi,MLA-AL10-user 4.4.2 HUAWEIMLA-AL10 381180224 release-keys,sdm660,HUAWEI ,null,Dalvik,1
+armeabi-v7a,DOOV,mt6735,DOOV C70,unknown,armeabi,AY.C70_11_3.05_180326,DOOV C70,DOOV,MRA58K,ART,1
+armeabi-v7a,ubuntu-121-111,mt6755,A37,unknown,armeabi,A37m_11_A.11_160728,full_oppo6750_15127,OPPO,LMY47I,ART,0
+armeabi-v7a,c3-miui-ota-bd17.bj,qcom,rolex,unknown,armeabi,MMB29M,QC_Reference_Phone,Xiaomi,MMB29M,ART,0
+armeabi-v7a,ubuntu-121-117,mt6752,R7s,unknown,armeabi,R7s_11_160818,oppo6752_15021,OPPO,KTU84P,Dalvik,0
+armeabi-v7a,ubuntu-121-107,mt6755,R9,unknown,armeabi,R9tm_11_A.28_160805,full_oppo6755_15111,OPPO,LMY47I,ART,0
+armeabi-v7a,SWHD7511,qcom,c7ltechn,C7000ZCU2BRB1,armeabi,NRD90M.C7000ZCU2BRB1,msm8953,samsung,NRD90M,ART,0
+armeabi-v7a,SWDG2909,qcom,sagit ,aruba3gzc,armeabi,sagit-user 4.4.2 NMF26X 381180523 release-keys,SM-G955F,Xiaomi ,null,Dalvik,1
+armeabi-v7a,ubuntu-121-161,qcom,R11,unknown,armeabi,R11-user 4.4.2 NMF26X 381180418 release-keys,sdm660,OPPO,null,Dalvik,1
+armeabi-v7a,ubuntu-121-161,qcom,R11,unknown,armeabi,R11-user 4.4.2 NMF26X 381180418 release-keys,sdm660,OPPO,null,Dalvik,1
+armeabi-v7a,ubuntu-121-161,qcom,R11,unknown,armeabi,R11-user 4.4.2 NMF26X 381180418 release-keys,sdm660,OPPO,null,Dalvik,1
+armeabi-v7a,WUH1000105879,qcom,R11,unknown,armeabi,R11-user 4.4.2 NMF26X 381180224 release-keys,MLA-AL10,OPPO,null,Dalvik,1
+armeabi-v7a,ubuntu-121-161,qcom,R11,unknown,armeabi,R11-user 4.4.2 NMF26X 381180418 release-keys,sdm660,OPPO,null,Dalvik,1
+armeabi-v7a,ubuntu-121-161,qcom,R11,unknown,armeabi,R11-user 4.4.2 NMF26X 381180418 release-keys,sdm660,OPPO,null,Dalvik,1
+armeabi-v7a,ubuntu-121-161,qcom,R11,unknown,armeabi,R11-user 4.4.2 NMF26X 381180418 release-keys,sdm660,OPPO,null,Dalvik,1
+armeabi-v7a,ubuntu-121-161,qcom,R11,unknown,armeabi,R11-user 4.4.2 NMF26X 381180418 release-keys,sdm660,OPPO,null,Dalvik,1
+armeabi-v7a,ubuntu-121-161,qcom,R11,J3109KEU1AOK1,armeabi,R11-user 4.4.2 NMF26X 381180529 release-keys,sdm660,OPPO,null,Dalvik,1
+armeabi-v7a,ubuntu-121-161,qcom,R11,unknown,armeabi,R11-user 4.4.2 NMF26X 381180529 release-keys,sdm660,OPPO,null,Dalvik,1
+armeabi-v7a,siajk233cna,hi6250,HNNEM-H,unknown,armeabi,NEM-AL10C00B192,NEM-AL10,HUAWEI,HONORNEM-AL10,ART,1
+armeabi-v7a,WUH1000105879,qcom,SM-G925F,unknown,armeabi,SM-G925F-user 4.4.2 JLS36C 381180529 release-keys,MLA-AL10,samsung,null,Dalvik,1
+x86,osboxes,cancro,cancro,U-Boot,armeabi-v7a,cancro-eng 4.4.4 V417IR eng.root.20180201.174500 release-keys,hammerhead,Netease,V417IR,Dalvik,1
+x86,osboxes,cancro,cancro,U-Boot,armeabi-v7a,cancro-eng 4.4.4 V417IR eng.root.20180201.174500 release-keys,hammerhead,Netease,V417IR,Dalvik,1
+armeabi-v7a,ubuntu-121-161,qcom,R11,unknown,armeabi,R11-user 4.4.2 NMF26X 381180418 release-keys,sdm660,OPPO,null,Dalvik,1
+x86,osboxes,cancro,cancro,U-Boot,armeabi-v7a,cancro-eng 4.4.4 V417IR eng.root.20180201.174500 release-keys,hammerhead,Netease,V417IR,Dalvik,1
+armeabi-v7a,siajk233cna,hi6250,HNNEM-H,unknown,armeabi,NEM-AL10C00B192,NEM-AL10,HUAWEI,HONORNEM-AL10,ART,1
+armeabi-v7a,wuhjk0361cna,hi3635,HWCRR,unknown,armeabi,CRR-UL00C00B370,CRR-UL00,HUAWEI,HUAWEICRR-UL00,ART,1
+armeabi-v7a,DOOV,mt6755,DOOV L9,unknown,armeabi,L9_11_3.15_170301,DOOV L9,DOOV,MRA58K,ART,1
+armeabi-v7a,siajk233cna,hi6250,HNNEM-H,unknown,armeabi,NEM-AL10C00B192,NEM-AL10,HUAWEI,HONORNEM-AL10,ART,1
+x86,SWDB4706,qcom,cs02ve3g,unknown,armeabi-v7a,cs02ve3gctc-user 4.4.2 JLS36C 3.8.017.0927 release-keys,PRO5,samsung,null,Dalvik,1
+armeabi-v7a,SWDG2909,qcom,sagit ,aruba3gzc,armeabi,sagit-user 4.4.2 NMF26X 381180523 release-keys,SM-G955F,Xiaomi ,null,Dalvik,1
+armeabi-v7a,DOOV,mt6755,DOOV L9,unknown,armeabi,L9_11_3.15_170301,DOOV L9,DOOV,MRA58K,ART,1
+armeabi-v7a,SWDG2909,qcom,sagit ,aruba3gzc,armeabi,sagit-user 4.4.2 NMF26X 381180523 release-keys,SM-G955F,Xiaomi ,null,Dalvik,1
+armeabi-v7a,DOOV,mt6735,DOOV C70,unknown,armeabi,AY.C70_11_3.05_180326,DOOV C70,DOOV,MRA58K,ART,1
+armeabi-v7a,siajk233cna,hi6250,HNNEM-H,unknown,armeabi,NEM-AL10C00B192,NEM-AL10,HUAWEI,HONORNEM-AL10,ART,1
+armeabi-v7a,DOOV,mt6735,DOOV C70,unknown,armeabi,AY.C70_11_3.05_180326,DOOV C70,DOOV,MRA58K,ART,1
+armeabi-v7a,SWDG2909,qcom,SM-G955F,A9000ZCU1BQC1,armeabi,SM-G955F-user 4.4.2 JLS36C 381180523 release-keys,SM-G955F,samsung,null,Dalvik,1
+armeabi-v7a,DOOV,mt6735,DOOV C70,unknown,armeabi,AY.C70_11_3.05_180326,DOOV C70,DOOV,MRA58K,ART,1
+armeabi-v7a,SWDG2909,qcom,sagit ,aruba3gzc,armeabi,sagit-user 4.4.2 NMF26X 381180523 release-keys,SM-G955F,Xiaomi ,null,Dalvik,1
+armeabi-v7a,wuhjk0361cna,hi3635,HWCRR,unknown,armeabi,CRR-UL00C00B370,CRR-UL00,HUAWEI,HUAWEICRR-UL00,ART,1
+armeabi-v7a,SWDG2909,qcom,SM-G955F,A9000ZCU1BQC1,armeabi,SM-G955F-user 4.4.2 JLS36C 381180523 release-keys,SM-G955F,samsung,null,Dalvik,1
+armeabi-v7a,SWDG2909,qcom,SM-G955F,A9000ZCU1BQC1,armeabi,SM-G955F-user 4.4.2 JLS36C 381180523 release-keys,SM-G955F,samsung,null,Dalvik,1
+armeabi-v7a,SWDG2909,qcom,sagit ,aruba3gzc,armeabi,sagit-user 4.4.2 NMF26X 381180523 release-keys,SM-G955F,Xiaomi ,null,Dalvik,1
+armeabi-v7a,SWDG2909,qcom,sagit ,aruba3gzc,armeabi,sagit-user 4.4.2 NMF26X 381180523 release-keys,SM-G955F,Xiaomi ,null,Dalvik,1
+armeabi-v7a,wuhjk0361cna,hi3635,HWCRR,unknown,armeabi,CRR-UL00C00B370,CRR-UL00,HUAWEI,HUAWEICRR-UL00,ART,1
+armeabi-v7a,SWDD5916,qcom,jflte,msm8960,armeabi,JDQ39.G3818ZMUAML7,MSM8960,samsung,null,Dalvik,1
+armeabi-v7a,DOOV,mt6755,DOOV L9,unknown,armeabi,L9_11_3.15_170301,DOOV L9,DOOV,MRA58K,ART,1
+armeabi-v7a,SWDG2909,qcom,sagit ,aruba3gzc,armeabi,sagit-user 4.4.2 NMF26X 381180523 release-keys,SM-G955F,Xiaomi ,null,Dalvik,1
+armeabi-v7a,ubuntu-121-161,qcom,HWMLA ,unknown,armeabi,MLA-AL10-user 4.4.2 HUAWEIMLA-AL10 381180224 release-keys,sdm660,HUAWEI ,null,Dalvik,1
+armeabi-v7a,DOOV,mt6735,DOOV C70,unknown,armeabi,AY.C70_11_3.05_180326,DOOV C70,DOOV,MRA58K,ART,1
+armeabi-v7a,compiler031,qcom,PD1709,unknown,armeabi,NMF26X release-keys,sdm660,vivo,NMF26X,ART,0
+armeabi-v7a,shajk0111cna,hi6250,HWFLA-H,unknown,armeabi,FLA-AL20 8.0.0.150(C00),FLA-AL20,HUAWEI,HUAWEIFLA-AL20,ART,0
+armeabi-v7a,SWDD6303,qcom,dream2qltechn,G9550ZCU2CRE1,armeabi,R16NW.G9550ZCU2CRE1,msm8998,samsung,R16NW,ART,0
+armeabi-v7a,ubuntu-121-160,qcom,R11Plusk,unknown,armeabi,R11Plusk_11_A.30_171001,sdm660,OPPO,NMF26X,ART,0
+armeabi-v7a,ubuntu-121-102,qcom,A53,unknown,armeabi,A53_11_A.11_160627,msm8916,OPPO,LMY47V,ART,0
+armeabi-v7a,SWDG2909,qcom,sagit ,aruba3gzc,armeabi,sagit-user 4.4.2 NMF26X 381180523 release-keys,SM-G955F,Xiaomi ,null,Dalvik,1
+armeabi-v7a,ubuntu-121-161,qcom,R11,unknown,armeabi,R11-user 4.4.2 NMF26X 381180418 release-keys,sdm660,OPPO,null,Dalvik,1
+armeabi-v7a,ubuntu-121-161,qcom,R11,unknown,armeabi,R11-user 4.4.2 NMF26X 381180418 release-keys,sdm660,OPPO,null,Dalvik,1
+armeabi-v7a,ubuntu-121-161,qcom,R11,unknown,armeabi,R11-user 4.4.2 NMF26X 381180418 release-keys,sdm660,OPPO,null,Dalvik,1
+armeabi-v7a,DOOV,mt6755,DOOV L9,unknown,armeabi,L9_11_3.15_170301,DOOV L9,DOOV,MRA58K,ART,1
+armeabi-v7a,ubuntu-121-161,qcom,R11,unknown,armeabi,R11-user 4.4.2 NMF26X 381180418 release-keys,sdm660,OPPO,null,Dalvik,1
+armeabi-v7a,ubuntu-121-161,qcom,R11,unknown,armeabi,R11-user 4.4.2 NMF26X 381180418 release-keys,sdm660,OPPO,null,Dalvik,1
+armeabi-v7a,ubuntu-121-161,qcom,R11,unknown,armeabi,R11-user 4.4.2 NMF26X 381180418 release-keys,sdm660,OPPO,null,Dalvik,1
+armeabi-v7a,ubuntu-121-161,qcom,R11,unknown,armeabi,R11-user 4.4.2 NMF26X 381180418 release-keys,sdm660,OPPO,null,Dalvik,1
+armeabi-v7a,ubuntu-121-161,qcom,R11,unknown,armeabi,R11-user 4.4.2 NMF26X 381180418 release-keys,sdm660,OPPO,null,Dalvik,1
+armeabi-v7a,ubuntu-121-161,qcom,R11,J3109KEU1AOK1,armeabi,R11-user 4.4.2 NMF26X 381180529 release-keys,sdm660,OPPO,null,Dalvik,1
+armeabi-v7a,android-PC,sofiaboard,sofia3gr_car,1639.400_M1S1,armeabi,sofia3gr_car-userdebug 5.1.1 LMY49F eng.levilin.20180328.164737 test-keys,rk30sdk,Rockchip,LMY49F,ART,1
+armeabi-v7a,WUH1000105879,qcom,HWMLA ,unknown,armeabi,MLA-AL10-user 4.4.2 HUAWEIMLA-AL10 381180529 release-keys,MLA-AL10,HUAWEI ,null,Dalvik,1
+x86,osboxes,cancro,cancro,U-Boot,armeabi-v7a,cancro-eng 4.4.4 V417IR eng.root.20180201.174500 release-keys,hammerhead,Netease,V417IR,Dalvik,1
+armeabi-v7a,android-PC,sofiaboard,sofia3gr_car,1639.400_M1S1,armeabi,sofia3gr_car-userdebug 5.1.1 LMY49F eng.levilin.20180328.164737 test-keys,rk30sdk,Rockchip,LMY49F,ART,1
+armeabi-v7a,ubuntu-121-161,qcom,R11,unknown,armeabi,R11-user 4.4.2 NMF26X 381180529 release-keys,sdm660,OPPO,null,Dalvik,1
+armeabi-v7a,siajk233cna,hi6250,HNNEM-H,unknown,armeabi,NEM-AL10C00B192,NEM-AL10,HUAWEI,HONORNEM-AL10,ART,1
+armeabi-v7a,DOOV,mt6755,DOOV L9,unknown,armeabi,L9_11_3.15_170301,DOOV L9,DOOV,MRA58K,ART,1
+armeabi-v7a,ubuntu-121-161,qcom,R11,unknown,armeabi,R11-user 4.4.2 NMF26X 381180418 release-keys,sdm660,OPPO,null,Dalvik,1
+armeabi-v7a,siajk233cna,hi6250,HNNEM-H,unknown,armeabi,NEM-AL10C00B192,NEM-AL10,HUAWEI,HONORNEM-AL10,ART,1
+armeabi-v7a,siajk233cna,hi6250,HNNEM-H,unknown,armeabi,NEM-AL10C00B192,NEM-AL10,HUAWEI,HONORNEM-AL10,ART,1
+x86,SWDB4706,qcom,cs02ve3g,unknown,armeabi-v7a,cs02ve3gctc-user 4.4.2 JLS36C 3.8.017.0927 release-keys,PRO5,samsung,null,Dalvik,1
+armeabi-v7a,SWDG2909,qcom,SM-G955F,A9000ZCU1BQC1,armeabi,SM-G955F-user 4.4.2 JLS36C 381180523 release-keys,SM-G955F,samsung,null,Dalvik,1
+armeabi-v7a,siajk233cna,hi6250,HNNEM-H,unknown,armeabi,NEM-AL10C00B192,NEM-AL10,HUAWEI,HONORNEM-AL10,ART,1
+armeabi-v7a,siajk233cna,hi6250,HNNEM-H,unknown,armeabi,NEM-AL10C00B192,NEM-AL10,HUAWEI,HONORNEM-AL10,ART,1
+armeabi-v7a,DOOV,mt6735,DOOV C70,unknown,armeabi,AY.C70_11_3.05_180326,DOOV C70,DOOV,MRA58K,ART,1
+armeabi-v7a,SWDG2909,qcom,SM-G955F,A9000ZCU1BQC1,armeabi,SM-G955F-user 4.4.2 JLS36C 381180523 release-keys,SM-G955F,samsung,null,Dalvik,1
+armeabi-v7a,DOOV,mt6735,DOOV C70,unknown,armeabi,AY.C70_11_3.05_180326,DOOV C70,DOOV,MRA58K,ART,1
+armeabi-v7a,SWDG2909,qcom,sagit ,aruba3gzc,armeabi,sagit-user 4.4.2 NMF26X 381180523 release-keys,SM-G955F,Xiaomi ,null,Dalvik,1
+armeabi-v7a,DOOV,mt6755,DOOV L9,unknown,armeabi,L9_11_3.15_170301,DOOV L9,DOOV,MRA58K,ART,1
+armeabi-v7a,SWDG2909,qcom,SM-G955F,A9000ZCU1BQC1,armeabi,SM-G955F-user 4.4.2 JLS36C 381180523 release-keys,SM-G955F,samsung,null,Dalvik,1
+armeabi-v7a,SWDG2909,qcom,SM-G955F,A9000ZCU1BQC1,armeabi,SM-G955F-user 4.4.2 JLS36C 381180523 release-keys,SM-G955F,samsung,null,Dalvik,1
+armeabi-v7a,SWDG2909,qcom,SM-G955F,A9000ZCU1BQC1,armeabi,SM-G955F-user 4.4.2 JLS36C 381180523 release-keys,SM-G955F,samsung,null,Dalvik,1
+armeabi-v7a,SWDG2909,qcom,SM-G955F,A9000ZCU1BQC1,armeabi,SM-G955F-user 4.4.2 JLS36C 381180523 release-keys,SM-G955F,samsung,null,Dalvik,1
+armeabi-v7a,SWDG2909,qcom,sagit ,aruba3gzc,armeabi,sagit-user 4.4.2 NMF26X 381180523 release-keys,SM-G955F,Xiaomi ,null,Dalvik,1
+armeabi-v7a,SWDG2909,qcom,sagit ,aruba3gzc,armeabi,sagit-user 4.4.2 NMF26X 381180523 release-keys,SM-G955F,Xiaomi ,null,Dalvik,1
+armeabi-v7a,siajk233cna,hi6250,HNNEM-H,unknown,armeabi,NEM-AL10C00B192,NEM-AL10,HUAWEI,HONORNEM-AL10,ART,1
+armeabi-v7a,SWDD5916,qcom,jflte,msm8960,armeabi,JDQ39.G3818ZMUAML7,MSM8960,samsung,null,Dalvik,1
+armeabi-v7a,wuhjk0361cna,hi3635,HWCRR,unknown,armeabi,CRR-UL00C00B370,CRR-UL00,HUAWEI,HUAWEICRR-UL00,ART,1
+armeabi-v7a,SWDG2909,qcom,sagit ,aruba3gzc,armeabi,sagit-user 4.4.2 NMF26X 381180523 release-keys,SM-G955F,Xiaomi ,null,Dalvik,1
+armeabi-v7a,wuhjk0361cna,hi3635,HWCRR,unknown,armeabi,CRR-UL00C00B370,CRR-UL00,HUAWEI,HUAWEICRR-UL00,ART,1
+armeabi-v7a,DOOV,mt6735,DOOV C70,unknown,armeabi,AY.C70_11_3.05_180326,DOOV C70,DOOV,MRA58K,ART,1
+armeabi-v7a,compiler027,qcom,PD1616,unknown,armeabi,MMB29M release-keys,msm8953,vivo,MMB29M,ART,0
+armeabi-v7a,compiler02301,qcom,PD1621,unknown,armeabi,MMB29M release-keys,QC_Reference_Phone,vivo,MMB29M,ART,0
+armeabi-v7a,szvjk042cna,hi3660,HWSTF,unknown,armeabi,STF-AL10C00B201,STF,HUAWEI,HUAWEISTF-AL10,ART,0
+armeabi-v7a,wuhjk0381cna,hi3650,HWNXT,unknown,armeabi,NXT-AL10C00B596,NXT-AL10,HUAWEI,HUAWEINXT-AL10,ART,0
+armeabi-v7a,IBM-16,mt6735,M5,unknown,armeabi,amigo3.0.9,unknown,GiONEE,LMY47D,ART,0
+armeabi-v7a,SWDG2909,qcom,sagit ,aruba3gzc,armeabi,sagit-user 4.4.2 NMF26X 381180523 release-keys,SM-G955F,Xiaomi ,null,Dalvik,1
+armeabi-v7a,SWDG2909,qcom,sagit ,aruba3gzc,armeabi,sagit-user 4.4.2 NMF26X 381180523 release-keys,SM-G955F,Xiaomi ,null,Dalvik,1
+armeabi-v7a,ubuntu-121-161,qcom,R11,unknown,armeabi,R11-user 4.4.2 NMF26X 381180418 release-keys,sdm660,OPPO,null,Dalvik,1
+armeabi-v7a,ubuntu-121-161,qcom,R11,unknown,armeabi,R11-user 4.4.2 NMF26X 381180418 release-keys,sdm660,OPPO,null,Dalvik,1
+x86,osboxes,cancro,cancro,unknown,armeabi-v7a,cancro-eng 4.4.4 V417IR eng.root.20171123.140404 test-keys,hammerhead,Netease,V417IR,Dalvik,1
+armeabi-v7a,ubuntu-121-161,qcom,R11,unknown,armeabi,R11-user 4.4.2 NMF26X 381180418 release-keys,sdm660,OPPO,null,Dalvik,1
+armeabi-v7a,wuhjk0361cna,hi3635,HWCRR,unknown,armeabi,CRR-UL00C00B370,CRR-UL00,HUAWEI,HUAWEICRR-UL00,ART,1
+armeabi-v7a,ubuntu-121-161,qcom,R11,unknown,armeabi,R11-user 4.4.2 NMF26X 381180418 release-keys,sdm660,OPPO,null,Dalvik,1
+armeabi-v7a,ubuntu-121-161,qcom,R11,unknown,armeabi,R11-user 4.4.2 NMF26X 381180418 release-keys,sdm660,OPPO,null,Dalvik,1
+armeabi-v7a,siajk233cna,hi6250,HNNEM-H,unknown,armeabi,NEM-AL10C00B192,NEM-AL10,HUAWEI,HONORNEM-AL10,ART,1
+armeabi-v7a,ubuntu-121-161,qcom,R11,unknown,armeabi,R11-user 4.4.2 NMF26X 381180529 release-keys,sdm660,OPPO,null,Dalvik,1
+armeabi-v7a,ubuntu-121-161,qcom,R11,unknown,armeabi,R11-user 4.4.2 NMF26X 381180529 release-keys,sdm660,OPPO,null,Dalvik,1
+armeabi-v7a,WUH1000105879,qcom,M6Note,unknown,armeabi,meizu_M6Note-user 4.4.2 N2G47H 381180529 release-keys,MLA-AL10,Meizu,null,Dalvik,1
+armeabi-v7a,ubuntu-121-161,qcom,R11,unknown,armeabi,R11-user 4.4.2 NMF26X 381180418 release-keys,sdm660,OPPO,null,Dalvik,1
+armeabi-v7a,android-PC,sofiaboard,sofia3gr_car,1639.400_M1S1,armeabi,sofia3gr_car-userdebug 5.1.1 LMY49F eng.levilin.20180328.164737 test-keys,rk30sdk,Rockchip,LMY49F,ART,1
+armeabi-v7a,WUH1000105879,qcom,natrium,unknown,armeabi,natrium-user 4.4.2 NRD90M 381180529 release-keys,MLA-AL10,Xiaomi ,null,Dalvik,1
+armeabi-v7a,siajk233cna,hi6250,HNNEM-H,unknown,armeabi,NEM-AL10C00B192,NEM-AL10,HUAWEI,HONORNEM-AL10,ART,1
+armeabi-v7a,siajk233cna,hi6250,HNNEM-H,unknown,armeabi,NEM-AL10C00B192,NEM-AL10,HUAWEI,HONORNEM-AL10,ART,1
+armeabi-v7a,ubuntu-121-161,qcom,R11,unknown,armeabi,R11-user 4.4.2 NMF26X 381180418 release-keys,sdm660,OPPO,null,Dalvik,1
+armeabi-v7a,siajk233cna,hi6250,HNNEM-H,unknown,armeabi,NEM-AL10C00B192,NEM-AL10,HUAWEI,HONORNEM-AL10,ART,1
+armeabi-v7a,DOOV,mt6755,DOOV L9,unknown,armeabi,L9_11_3.15_170301,DOOV L9,DOOV,MRA58K,ART,1
+x86,SWDB4706,qcom,cs02ve3g,unknown,armeabi-v7a,cs02ve3gctc-user 4.4.2 JLS36C 3.8.017.0927 release-keys,PRO5,samsung,null,Dalvik,1
+armeabi-v7a,siajk233cna,hi6250,HNNEM-H,unknown,armeabi,NEM-AL10C00B192,NEM-AL10,HUAWEI,HONORNEM-AL10,ART,1
+armeabi-v7a,SWDG2909,qcom,SM-G955F,A9000ZCU1BQC1,armeabi,SM-G955F-user 4.4.2 JLS36C 381180523 release-keys,SM-G955F,samsung,null,Dalvik,1
+armeabi-v7a,SWDG2909,qcom,sagit ,aruba3gzc,armeabi,sagit-user 4.4.2 NMF26X 381180523 release-keys,SM-G955F,Xiaomi ,null,Dalvik,1
+armeabi-v7a,DOOV,mt6735,DOOV C70,unknown,armeabi,AY.C70_11_3.05_180326,DOOV C70,DOOV,MRA58K,ART,1
+armeabi-v7a,SWDG2909,qcom,SM-G955F,A9000ZCU1BQC1,armeabi,SM-G955F-user 4.4.2 JLS36C 381180523 release-keys,SM-G955F,samsung,null,Dalvik,1
+armeabi-v7a,DOOV,mt6735,DOOV C70,unknown,armeabi,AY.C70_11_3.05_180326,DOOV C70,DOOV,MRA58K,ART,1
+armeabi-v7a,DOOV,mt6735,DOOV C70,unknown,armeabi,AY.C70_11_3.05_180326,DOOV C70,DOOV,MRA58K,ART,1
+armeabi-v7a,DOOV,mt6755,DOOV L9,unknown,armeabi,L9_11_3.15_170301,DOOV L9,DOOV,MRA58K,ART,1
+armeabi-v7a,SWDG2909,qcom,SM-G955F,A9000ZCU1BQC1,armeabi,SM-G955F-user 4.4.2 JLS36C 381180523 release-keys,SM-G955F,samsung,null,Dalvik,1
+armeabi-v7a,siajk233cna,hi6250,HNNEM-H,unknown,armeabi,NEM-AL10C00B192,NEM-AL10,HUAWEI,HONORNEM-AL10,ART,1
+armeabi-v7a,SWDG2909,qcom,SM-G955F,A9000ZCU1BQC1,armeabi,SM-G955F-user 4.4.2 JLS36C 381180523 release-keys,SM-G955F,samsung,null,Dalvik,1
+armeabi-v7a,SWDG2909,qcom,SM-G955F,A9000ZCU1BQC1,armeabi,SM-G955F-user 4.4.2 JLS36C 381180523 release-keys,SM-G955F,samsung,null,Dalvik,1
+armeabi-v7a,SWDG2909,qcom,sagit ,aruba3gzc,armeabi,sagit-user 4.4.2 NMF26X 381180523 release-keys,SM-G955F,Xiaomi ,null,Dalvik,1
+armeabi-v7a,SWDG2909,qcom,sagit ,aruba3gzc,armeabi,sagit-user 4.4.2 NMF26X 381180523 release-keys,SM-G955F,Xiaomi ,null,Dalvik,1
+armeabi-v7a,siajk233cna,hi6250,HNNEM-H,unknown,armeabi,NEM-AL10C00B192,NEM-AL10,HUAWEI,HONORNEM-AL10,ART,1
+armeabi-v7a,huawei-desktop,qcom,HWDIG-L8940,unknown,armeabi,Diego-AL00C00B165,DIG-AL00,HUAWEI,HUAWEIDIG-AL00,ART,1
+armeabi-v7a,wuhjk0361cna,hi3635,HWCRR,unknown,armeabi,CRR-UL00C00B370,CRR-UL00,HUAWEI,HUAWEICRR-UL00,ART,1
+armeabi-v7a,SWDG2909,qcom,sagit ,aruba3gzc,armeabi,sagit-user 4.4.2 NMF26X 381180523 release-keys,SM-G955F,Xiaomi ,null,Dalvik,1
+armeabi-v7a,ubuntu-121-161,qcom,HWMLA ,unknown,armeabi,MLA-AL10-user 4.4.2 HUAWEIMLA-AL10 381180224 release-keys,sdm660,HUAWEI ,null,Dalvik,1
+armeabi-v7a,DOOV,mt6735,DOOV C70,unknown,armeabi,AY.C70_11_3.05_180326,DOOV C70,DOOV,MRA58K,ART,1
+armeabi-v7a,shacidculx1385,Kirin920,hwH60,unknown,armeabi,H60-L11V100R001CHNC00B317,H60-L11,HUAWEI,HDH60-L11,Dalvik,0
+armeabi-v7a,c3-miui-ota-bd105.bj,qcom,natrium,unknown,armeabi,NRD90M,QC_Reference_Phone,Xiaomi,NRD90M,ART,0
+armeabi-v7a,c3-miui-ota-bd114.bj,qcom,sagit,unknown,armeabi,OPR1.170623.027,msm8998,Xiaomi,OPR1.170623.027,ART,0
+armeabi-v7a,c3-miui-ota-bd05.bj,mt6797,nikel,unknown,armeabi,MRA58K,unknown,Xiaomi,MRA58K,ART,0
+armeabi-v7a,SWDG4522,qcom,a5xltechn,A5100ZCU1BQL1,armeabi,MMB29M.A5100ZCU1BQL1,MSM8939,samsung,MMB29M,ART,0
